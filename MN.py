@@ -1,7 +1,7 @@
 import requests
 import json
 import pandas as pd
-
+from urllib.request import urlopen
 
 def safediv(x, y):
     try:
@@ -20,19 +20,19 @@ GOP = df.loc[df['Candidate Name']=='Donald J. Trump and Michael R. Pence']
 DEM = df.loc[df['Candidate Name']=='Joseph R. Biden and Kamala Harris']
 df = DEM.merge(GOP, on='ID')
 df.insert(0,"Margin",(df['Percentage of votes_x'].astype(float)-df['Percentage of votes_y'].astype(float))/100)
-df.to_csv('Output.csv',index=False)
+#df.to_csv('Output.csv',index=False)
 
 
 file_name='MN_Precincts.geojson'
 
 
-with open(file_name, 'r', encoding='utf-8') as f:
-    data = json.load(f)
+#with open(file_name, 'r', encoding='utf-8') as f:
+#    data = json.load(f)
 
-#with urlopen("https://gis.dupageco.org/arcgis/rest/services/DuPage_County_IL/Election_Precincts/MapServer/0/query?outFields=*&where=1%3D1&f=geojson") as response:
-  # source = response.read()
+with urlopen("https://raw.githubusercontent.com/Napervillpol/MN-1st-District-Special/main/MN_Precincts.geojson") as response:
+   source = response.read()
 
-#data = json.loads(source)
+data = json.loads(source)
 i = 0
 for features in data['features']:
 
@@ -51,8 +51,8 @@ for features in data['features']:
             features['properties']['DEM_VOTES'] = int(df['Votes_x'][i])
             features['properties']['GOP_VOTES'] = int(df['Votes_y'][i])
             features['properties']['TOTAL_VOTES'] = int(df['Total Votes_x'][i])
-            features['properties']['MARGIN'] = float(df['Percentage of votes_x'][i])-float(df['Percentage of votes_y'][i])
-            print(df['Casten'][i])
+            features['properties']['MARGIN'] = (float(df['Percentage of votes_x'][i])-float(df['Percentage of votes_y'][i]))/100
+            #print(df['Casten'][i])
 
         i = i + 1
 

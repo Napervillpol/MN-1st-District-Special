@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Napervillepol Election Centre</title>
+        <meta name="viewport" content="initial-scale=1,maximum-scale=1,user-scalable=no">
+        <link rel="stylesheet" href="https://unpkg.com/leaflet@1.8.0/dist/leaflet.css"
+        integrity="sha512-hoalWLoI8r4UszCkZ5kL8vayOGVae1oxXe/2A4AO6J9+580uKHDO3JdHb7NzwwzK5xr/Fs0W40kiNHxM9vyTtQ=="
+        crossorigin=""/>
+        <script src="https://unpkg.com/leaflet@1.8.0/dist/leaflet.js"
+        integrity="sha512-BB3hKbKWOc9Ez/TAwyWxNXeoV9c1v6FIeYiBieIWkpLjauysF18NzgR1MBNBXf8/KABdlkX68nAhlwcDFLGPCQ=="
+        crossorigin=""></script>
+        <script src="/js/leaflet-0.7.2/leaflet.ajax.min.js"></script>
+        <style>
+            body{
+                margin: 0;
+                padding: 0;
+            }
+
+            h1{
+                text-align: left;
+                padding-left:400px;
+            }
+
+            #map{
+                position: absolute;
+                top: 150px;
+                bottom: 0;
+                left: 75px;
+                width: 800px;
+                height: 800px;
+                border-style: ridge;
+            }
+            .square {
+                position: absolute;               
+                Left: 980px;
+                Top: 150px;
+                height: 100px;
+                width: 230px;
+               
+                border-style: solid;
+                border-color: black;
+                border-width: 2px;
+            }
+            #info {
+                position: absolute;               
+                Left: 1000px;
+                Top: 170px;
+                font: 16px/20px Arial, Helvetica, sans-serif;
+                background: white;
+            }
+
+            #block {
+                position: absolute;   
+                height: 30px;
+                width:  50px;
+                
+                
+            }
+            #label{
+                font: 14px/1.3em Open Sans,sans-serif;
+                margin-top: 40px;
+                font-style: italic;
+                text-align: center;
+            }
+          
+            
+        </style>
+    </head>
+    
+    <body>
+       
+        <div id='map'></div>
+        <h1>Election Results</h1>
+        <div id ="block" style="background-color: #7b3294;Left: 75px; "><p id="label">>50%</p></div>
+        <div id ="block" style="background-color: #84419c;Left: 125px; "><p id="label">>40%</p></div>
+        <div id ="block" style="background-color: #8e50a4;Left: 175px; "><p id="label">>30%</p></div>
+        <div id ="block" style="background-color: #9760ac;Left: 225px; "><p id="label">>20%</p></div>
+        <div id ="block" style="background-color: #a16fb4;Left: 275px; "><p id="label">>10%</p></div>
+        <div id ="block" style="background-color: #ab7fbc;Left: 325px; "><p id="label">>10%</p></div>
+        <div id ="block" style="background-color: #b48ec3;Left: 375px; "><p id="label">>5%</p></div>
+        <div id ="block" style="background-color: #be9dcb;Left: 425px; "><p id="label">>0%</p></div>
+        <div id ="block" style="background-color: #ccc9c0;Left: 475px; "><p id="label">=0%</p></div>
+        <div id ="block" style="background-color: #9bd699;Left: 525px; "><p id="label">>0%</p></div>
+        <div id ="block" style="background-color: #85cb8b;Left: 575px; "><p id="label">>5%</p></div>
+        <div id ="block" style="background-color: #6fc07d;Left: 625px; "><p id="label">>10%</p></div>
+        <div id ="block" style="background-color: #58b46f;Left: 675px; "><p id="label">>15%</p></div>
+        <div id ="block" style="background-color: #42a961;Left: 725px; "><p id="label">>20%</p></div>
+        <div id ="block" style="background-color: #2c9e53;Left: 775px; "><p id="label">>30%</p></div>
+        <div id ="block" style="background-color: #169345;Left: 825px; "><p id="label">>40%</p></div>
+        <div id ="block" style="background-color: #008837;Left: 875px; "><p id="label">>50%</p></div>
+        <div id='info'>
+            <b>  Precinct Name </b><br />Greg Hart:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Total Votes</b><br />Pete DiCianni: Total Votes
+        </div>
+        <div class="square"></div>
+        <script>
+             var geojson; 
+            function style(feature) {
+		        return {
+			        weight: .5,
+			        opacity: 0.7,
+			        color: getColorP(feature.properties.Margin),			
+			        fillOpacity: 0.7,
+			        fillColor: getColorP(feature.properties.Margin)
+		        };
+	        }       
+            var map = L.map('map').setView([41.860985, -88.124168], 11);
+            L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+                 maxZoom: 19,
+                 attribution: '© OpenStreetMap'
+            }).addTo(map);
+            let url = 'https://raw.githubusercontent.com/Napervillpol/Geojson/main/TEST.geojson';
+            const response = fetch(url).then(response => response.json()).then(response => {
+             
+            geojson = L.geoJson(response,
+            {
+               
+                style: style,
+                onEachFeature: onEachFeature
+                
+            }).addTo(map);
+             })
+             function getColor(d) {
+                
+		        return d > .5 ? '#035382' :
+			    d > .4  ? '#16628e' :
+			    d > .3  ? '#29719b' :
+			    d > .2 ? '#3c81a7' :
+			    d > .15 ? '#4f90b3' :
+			    d > .1   ? '#629fc0' :
+			    d > .05  ? '#75aecc' : 
+                d > 0 ? '#89bed8':
+                d == 0 ? '#ccc9c0':
+                d < -.5 ? '#af001d':
+			    d <-.4  ? '#b8162a' : 
+			    d < -.3   ? '#c22c38' :
+			    d < -.2 ? '#cb4245' :
+			    d < -.15 ? '#d45853' :
+			    d < -.1  ? '#dd6e60' :
+			    d < -.05  ? '#e7846e' :
+                d < 0 ? '#f09a7b' :
+                '#fae194';
+	    }
+
+        function getColorP(d) {
+            d = -d;
+		        return d > .5 ? '#7b3294' :
+			    d > .4  ? '#84419c' :
+			    d > .3  ? '#8e50a4' :
+			    d > .2 ? '#9760ac' :
+			    d > .15 ? '#a16fb4' :
+			    d > .1   ? '#ab7fbc' :
+			    d > .05  ? '#b48ec3' : 
+                d > 0 ? '#be9dcb':
+                d == 0 ? '#ccc9c0':
+                d < -.5 ? '#008837':
+			    d <-.4  ? '#169345' : 
+			    d < -.3   ? '#2c9e53' :
+			    d < -.2 ? '#42a961' :
+			    d < -.15 ? '#58b46f' :
+			    d < -.1  ? '#6fc07d' :
+			    d < -.05  ? '#85cb8b' :
+                d < 0 ? '#9bd699' :
+                '#fae194';
+	    }
+
+        function highlightFeature(e) {
+        var layer = e.target;
+
+         layer.setStyle({
+            weight: 2,
+            color: '#000000',
+            
+            fillOpacity: 0.7
+        });
+        info.update(layer.feature.properties);
+
+            if (!L.Browser.ie && !L.Browser.opera && !L.Browser.edge) {
+                layer.bringToFront();
+            }
+        }
+        function resetHighlight(e) {
+            geojson.resetStyle(e.target);
+            info.update();
+
+        }
+        function zoomToFeature(e) {
+    map.fitBounds(e.target.getBounds());
+}
+
+function onEachFeature(feature, layer) {
+    layer.on({
+        mouseover: highlightFeature,
+        mouseout: resetHighlight,
+        click: zoomToFeature
+    });
+}
+info.update = function (props) {
+    
+    document.getElementById("info").innerHTML =  (props ?
+        '<b>' + props.PrecinctName + '</b><br />'+ 'Greg Hart:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; '+ props.Casten + '&nbsp&nbsp('+Math.round(props.Casten/(props.Casten+props.Newman)*100)+'%)'+'</b><br />' + 'Pete DiCianni: &nbsp;' + props.Newman +'&nbsp&nbsp('+Math.round(props.Newman/(props.Casten+props.Newman)*100)+'%)'
+        : '<b>' + 'Precinct Name' + '</b><br />'+ 'Greg Hart:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'+ ' Total Votes' + '</b><br />' + 'Pete DiCianni: ' + 'Total Votes');
+};
+        </script>
+
+    </body>
+</html>
