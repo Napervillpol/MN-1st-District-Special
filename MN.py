@@ -16,12 +16,14 @@ def func():
     df = pd.read_excel(
         'Congressional-District-1-Special-Election-Results.xlsx',
         sheet_name='PrecinctResults')
-    df.columns=df.iloc[0]
+    name=['County Name','County Code','Precinct name','Precinct Code','2022 Congressional','2020 Congressional','Legislative','McClellan - GLC','Reisdorf - LMN','Finstad - R','Ettinger - DFL','Write In']
 
     df =df.drop(index =[0])
+    df.columns = name
+    df =df.reset_index()
+    
 
-
-    df.insert(0, "ID",df['County Code'].astype(str)+ df['Precinct Code'].astype(str))
+    df.insert(0, "ID",df['County Code'].astype(str).str.zfill(2)+ df['Precinct Code'].astype(str))
     df.insert(0, 'Total', df['McClellan - GLC'] + df['Reisdorf - LMN'] + df['Finstad - R'] + df['Ettinger - DFL'] + df['Write In'])
 
     df.insert(0,"Margin",safediv(df['Ettinger - DFL']-df['Finstad - R'],df['Total']))
@@ -48,6 +50,9 @@ def func():
 
     data = json.loads(source)
     i = 0
+
+
+
     for features in data['features']:
 
     
@@ -59,7 +64,7 @@ def func():
         for Precincts in df['ID']:
 
             if features['properties']['ID'] == Precincts:
-                #print(features['properties']['ID'])
+
                 features['properties']['DEM_VOTES'] = int(df['Ettinger - DFL'][i])
                 features['properties']['GOP_VOTES'] =int(df['Finstad - R'][i])
                 features['properties']['TOTAL_VOTES'] = int(df['Total'][i])
