@@ -26,10 +26,10 @@ df.to_csv('Test.csv',index=False)
 df['Votes_x']=df['Votes_x'].astype(int)
 df['Votes_y']=df['Votes_y'].astype(int)
 df['Total Votes_x']=df['Total Votes_x'].astype(int)
-Counties = df.groupby(df['COUNTYID'])[['Votes_x','Votes_y','Total Votes_x']].sum()
+Counties = df.groupby(df['COUNTYID'])[['Votes_x','Votes_y','Total Votes_x']].sum().reset_index()
 Counties.insert(0,'MARGIN',safediv(Counties['Votes_x']-Counties['Votes_y'], Counties['Total Votes_x']))
 
-Counties.to_csv('Topline.csv')
+Counties.to_csv('Topline.csv',index=False)
 
 file_name='MN_Precincts.geojson'
 
@@ -69,8 +69,41 @@ for features in data['features']:
 
 
 
-#json_data = json.dumps(data)
+file_name = 'MN_Precincts.geojson'
 
-with open('Precincts_Output.geojson', 'w') as f:
+# with open(file_name, 'r', encoding='utf-8') as f:
+#    data = json.load(f)
+
+with urlopen(
+        "https://raw.githubusercontent.com/Napervillpol/MN-1st-District-Special/main/MN_Counties.geojson") as response:
+    source = response.read()
+
+data = json.loads(source)
+i = 0
+
+for features in data['features']:
+
+    features['properties']['DEM_VOTES'] = 0
+    features['properties']['GOP_VOTES'] = 0
+    features['properties']['MARGIN'] = 0
+    features['properties']['TOTAL_VOTES'] = 0
+
+    for Precincts in Counties['COUNTYID']:
+
+        # print(features['properties']['ID'])
+
+        if features['properties']['COUN'] == Precincts:
+            features['properties']['DEM_VOTES'] = int(Counties['Votes_x'][i])
+            features['properties']['GOP_VOTES'] = int(Counties['Votes_y'][i])
+            features['properties']['TOTAL_VOTES'] = int(Counties['Total Votes_x'][i])
+            features['properties']['MARGIN'] = float(Counties['MARGIN'][i])
+
+        i = i + 1
+
+    i = 0;
+
+# json_data = json.dumps(data)
+
+with open('Counties_Output.geojson', 'w') as f:
     json.dump(data, f, indent=2)
     print("The json file is created")
