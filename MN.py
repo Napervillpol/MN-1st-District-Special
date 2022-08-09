@@ -71,6 +71,6 @@ for features in data['features']:
 
 #json_data = json.dumps(data)
 
-with open('TEST.geojson', 'w') as f:
+with open('Precincts_Output.geojson', 'w') as f:
     json.dump(data, f, indent=2)
     print("The json file is created")
