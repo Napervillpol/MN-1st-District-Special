@@ -17,13 +17,13 @@ def func():
 
     df = df.drop(columns=['State','County ID','Precinct Name','Office ID', 'Office Name','District','Candiate Order Code','suffix','Incumbent Code','Party Abbreviation','Number of Precincts Reporting','Total number of precincts voting for the office'])
 
-    GOP = df.loc[df['Candidate Name']=='Donald J. Trump and Michael R. Pence']
+    GOP = df.loc[df['Candidate Name']=='Brad Finstad']
 
-    DEM = df.loc[df['Candidate Name']=='Joseph R. Biden and Kamala Harris']
+    DEM = df.loc[df['Candidate Name']=='Jeff Ettinger']
     df = DEM.merge(GOP, on='ID')
     df.insert(0,"Margin",(df['Percentage of votes_x'].astype(float)-df['Percentage of votes_y'].astype(float))/100)
     df.insert(0,"COUNTYID",df['ID'].astype(int)//10000)
-    df.to_csv('Test.csv',index=False)
+    df.to_csv('Output.csv',index=False)
 
     df['Votes_x']=df['Votes_x'].astype(int)
     df['Votes_y']=df['Votes_y'].astype(int)
