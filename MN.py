@@ -67,6 +67,9 @@ def func():
 
         i = 0;
 
+    with open('Precinct_Output.geojson', 'w') as f:
+        json.dump(data, f, indent=2)
+        print("The Precinct json file is created")
 
 
 
@@ -107,9 +110,9 @@ def func():
 
     with open('Counties_Output.geojson', 'w') as f:
         json.dump(data, f, indent=2)
-        print("The json file is created")
+        print("The County json file is created")
 
-schedule.every(5).minutes.do(func)
+schedule.every(1).minutes.do(func)
 
 while True:
     schedule.run_pending()
