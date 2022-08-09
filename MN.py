@@ -12,10 +12,8 @@ def safediv(x, y):
         return 0
 def func():
 
-    df = pd.read_excel('https://ossmedia.sos.state.mn.us/MediaInfo/Congressional-District-1-Special-Election-Results.xlsx',sheet_name = 'PrecinctResults')
-   # df = pd.read_excel(
-    #    'Congressional-District-1-Special-Election-Results.xlsx',
-    #    sheet_name='PrecinctResults')
+    #df = pd.read_excel('https://ossmedia.sos.state.mn.us/MediaInfo/Congressional-District-1-Special-Election-Results.xlsx',sheet_name = 'PrecinctResults')
+    df = pd.read_excel('Congressional-District-1-Special-Election-Results.xlsx',sheet_name='PrecinctResults')
     name=['County Name','County Code','Precinct name','Precinct Code','2022 Congressional','2020 Congressional','Legislative','McClellan - GLC','Reisdorf - LMN','Finstad - R','Ettinger - DFL','Write In']
 
     df =df.drop(index =[0])
