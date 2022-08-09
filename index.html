@@ -129,6 +129,7 @@
         <button id = 'BPrecinct' class="button"  style="Top: 875px; Left:600px;">PRECINCT</button>
         <script>
              var geojson; 
+             var geojson2;
             function style(feature) {
 		        return {
 			        weight: .5,
@@ -173,11 +174,16 @@
                 //console.log(dvote)
             document.getElementById("summary").innerHTML = "<b>Total</b>" + '<br />'+ 'Brad Finstad:&nbsp;'+ RVOTE + '&nbsp&nbsp('+Math.round(RVOTE/(TVOTE)*100)+'%)'+'</b><br />' + 'Jeff Ettinger: &nbsp;' + DVOTE +'&nbsp&nbsp('+Math.round(DVOTE/(TVOTE)*100)+'%)'
         })
+
+        
+          
+
+
              document.getElementById("BCounty").addEventListener("click", function() {
-                    ClickCounty(map);
+                    ClickCounty();
                 });
             document.getElementById("BPrecinct").addEventListener("click", function() {
-                ClickPrecinct(map);
+                ClickPrecinct();
             });
              
              function getColor(d) {
@@ -258,43 +264,50 @@ function onEachFeature(feature, layer) {
 info.update = function (props) {
     
     document.getElementById("info").innerHTML =  (props ?
-        '<b>' + props.PCTNAME + '</b><br />'+ 'Brad Finstad:&nbsp;'+ props.GOP_VOTES + '&nbsp&nbsp('+Math.round(props.GOP_VOTES/(props.GOP_VOTES+props.DEM_VOTES)*100)+'%)'+'</b><br />' + 'Jeff Ettinger: &nbsp;' + props.DEM_VOTES +'&nbsp&nbsp('+Math.round(props.DEM_VOTES/(props.GOP_VOTES+props.DEM_VOTES)*100)+'%)'
+        '<b>' + props.PCTNAME + '</b><br />'+ 'Brad Finstad:&nbsp;'+ props.GOP_VOTES + '&nbsp&nbsp('+Math.round(props.GOP_VOTES/(props.TOTAL_VOTES)*100)+'%)'+'</b><br />' + 'Jeff Ettinger: &nbsp;' + props.DEM_VOTES +'&nbsp&nbsp('+Math.round(props.DEM_VOTES/(props.GOP_VOTES+props.DEM_VOTES)*100)+'%)'
         : '<b>' + 'Precinct Name' + '</b><br />'+ 'Brad Finstad:&nbsp;'+ ' Total Votes' + '</b><br />' + 'Jeff Ettinger: ' + 'Total Votes');
 };
 
-    function ClickCounty(map){
-        const response = fetch(url2).then(response => response.json()).then(response => {
+    function ClickCounty(){
+
+      
+        map.removeLayer(geojson)
+        const response2 = fetch(url2).then(response2 => response2.json()).then(response2 => {
                             
-                            geojson = L.geoJson(response,
+                            geojson2= L.geoJson(response2,
                             {
                                
                                 style: style,
                                 onEachFeature: onEachFeature
                                 
                             }).addTo(map);
-                            
-                            
-                            let len =0 
-                            len =response.features.len;
                            
-                            let DVOTE=0;
-                            let RVOTE=0;
-                            let TVOTE=0;
-                                for ( var i in response.features) {
-                                    
-                                    DVOTE += parseInt(response.features[i].properties.DEM_VOTES)
-                                    RVOTE += parseInt(response.features[i].properties.GOP_VOTES)
-                                    TVOTE += parseInt(response.features[i].properties.TOTAL_VOTES)
-                                    
-                                
-                                }
-                                //console.log(dvote)
-                            document.getElementById("summary").innerHTML = "<b>Total</b>" + '<br />'+ 'Brad Finstad:&nbsp;'+ RVOTE + '&nbsp&nbsp('+Math.round(RVOTE/(TVOTE)*100)+'%)'+'</b><br />' + 'Jeff Ettinger: &nbsp;' + DVOTE +'&nbsp&nbsp('+Math.round(DVOTE/(TVOTE)*100)+'%)'
-                        })
+                            
+                          
+                        }) 
+                           
+                        
     }
 
     function ClickPrecinct(){
-        map.remove();
+       map.removeLayer(geojson2)
+        const response = fetch(url).then(response => response.json()).then(response => {
+           
+                            geojson= L.geoJson(response,
+                            {
+                               
+                                style: style,
+                                onEachFeature: onEachFeature
+                                
+                            }).addTo(map);
+                           
+                            
+                          
+                        }) 
+       
+                            
+                           
+                        
     }
 
 
