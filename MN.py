@@ -58,10 +58,8 @@ def func():
 
         for Precincts in df['ID']:
 
-
-            #print(features['properties']['ID'])
-
             if features['properties']['ID'] == Precincts:
+                print("hi")
                 features['properties']['DEM_VOTES'] = int(df['Ettinger - DFL'][i])
                 features['properties']['GOP_VOTES'] =int(df['Finstad - R'][i])
                 features['properties']['TOTAL_VOTES'] = int(df['Total'][i])
@@ -98,7 +96,7 @@ def func():
 
         for Precincts in Counties['County Code']:
 
-            # print(features['properties']['ID'])
+
 
             if features['properties']['COUN'] == Precincts:
                 features['properties']['DEM_VOTES'] = int(Counties['Ettinger - DFL'][i])
