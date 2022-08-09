@@ -28,7 +28,7 @@
                 bottom: 0;
                 left: 75px;
                 width: 800px;
-                height: 800px;
+                height: 700px;
                 border-style: ridge;
             }
             .square {
@@ -81,6 +81,18 @@
                 font: 16px/20px Arial, Helvetica, sans-serif;
                 background: white;
             }
+            .button {
+                position: absolute; 
+                background-color: #ccc9c0; 
+                border: none;
+                color: black;
+                padding: 15px 32px;
+                text-align: center;
+                text-decoration: none;
+                display: inline-block;
+                
+                font-size: 16px;
+}
           
             
         </style>
@@ -113,6 +125,8 @@
         <div class="square"></div>
         <div id ='summary'> <b> Total</b><br />Brad Finstad:&nbsp; Total Votes</b><br />Jeff Ettinger: Total Votes</div>
         <div class="square2"></div>
+        <button class="button" style="Top: 875px; Left:200px;">COUNTY</button>
+        <button class="button" style="Top: 875px; Left:600px;">PRECINCT</button>
         <script>
              var geojson; 
             function style(feature) {
@@ -130,6 +144,7 @@
                  attribution: '© OpenStreetMap'
             }).addTo(map);
             let url = 'https://raw.githubusercontent.com/Napervillpol/MN-1st-District-Special/main/Precincts_Output.geojson';
+            //let url = 'https://raw.githubusercontent.com/Napervillpol/MN-1st-District-Special/main/Counties_Output.geojson';
             const response = fetch(url).then(response => response.json()).then(response => {
              
            
@@ -143,20 +158,23 @@
                 
             }).addTo(map);
            
-            let i = 0;
-            let len = response.features.len;
+            
+            let len =0 
+            len =response.features.len;
+           
             let DVOTE=0;
             let RVOTE=0;
             let TVOTE=0;
-                for (; i < 4102; ) {
+                for ( var i in response.features) {
+                    console.log("hello")
                     DVOTE += parseInt(response.features[i].properties.DEM_VOTES)
                     RVOTE += parseInt(response.features[i].properties.GOP_VOTES)
                     TVOTE += parseInt(response.features[i].properties.TOTAL_VOTES)
                     
-                i++;
+                
                 }
                 //console.log(dvote)
-            document.getElementById("summary").innerHTML = "<b>Total</b>" + '<br />'+ 'Brad Finstad:&nbsp;'+ RVOTE + '&nbsp&nbsp('+Math.round(RVOTE/(RVOTE+DVOTE)*100)+'%)'+'</b><br />' + 'Jeff Ettinger: &nbsp;' + DVOTE +'&nbsp&nbsp('+Math.round(DVOTE/(RVOTE+DVOTE)*100)+'%)'
+            document.getElementById("summary").innerHTML = "<b>Total</b>" + '<br />'+ 'Brad Finstad:&nbsp;'+ RVOTE + '&nbsp&nbsp('+Math.round(RVOTE/(TVOTE)*100)+'%)'+'</b><br />' + 'Jeff Ettinger: &nbsp;' + DVOTE +'&nbsp&nbsp('+Math.round(DVOTE/(TVOTE)*100)+'%)'
            
              })
              
@@ -244,6 +262,6 @@ info.update = function (props) {
 
 
         </script>
-
+        
     </body>
 </html>
