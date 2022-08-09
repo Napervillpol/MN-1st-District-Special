@@ -57,9 +57,9 @@ def func():
         features['properties']['TOTAL_VOTES']= 0
 
         for Precincts in df['ID']:
-
+            print(features['properties']['ID'])
             if features['properties']['ID'] == Precincts:
-                print("hi")
+
                 features['properties']['DEM_VOTES'] = int(df['Ettinger - DFL'][i])
                 features['properties']['GOP_VOTES'] =int(df['Finstad - R'][i])
                 features['properties']['TOTAL_VOTES'] = int(df['Total'][i])
