@@ -3687,7 +3687,7 @@
         "Shape_Area": 1226286586.17,
         "DEM_VOTES": 0,
         "GOP_VOTES": 0,
-        "MARGIN": NaN,
+        "MARGIN": 0.0,
         "TOTAL_VOTES": 0
       },
       "geometry": {
@@ -6503,7 +6503,7 @@
         "Shape_Area": 1335114621.05,
         "DEM_VOTES": 0,
         "GOP_VOTES": 0,
-        "MARGIN": NaN,
+        "MARGIN": 0.0,
         "TOTAL_VOTES": 0
       },
       "geometry": {
@@ -7403,7 +7403,7 @@
         "Shape_Area": 1600966055.55,
         "DEM_VOTES": 0,
         "GOP_VOTES": 0,
-        "MARGIN": NaN,
+        "MARGIN": 0.0,
         "TOTAL_VOTES": 0
       },
       "geometry": {
@@ -12499,7 +12499,7 @@
         "Shape_Area": 1208137728.88,
         "DEM_VOTES": 0,
         "GOP_VOTES": 0,
-        "MARGIN": NaN,
+        "MARGIN": 0.0,
         "TOTAL_VOTES": 0
       },
       "geometry": {
@@ -22319,7 +22319,7 @@
         "Shape_Area": 1981870614.15,
         "DEM_VOTES": 0,
         "GOP_VOTES": 0,
-        "MARGIN": NaN,
+        "MARGIN": 0.0,
         "TOTAL_VOTES": 0
       },
       "geometry": {
@@ -27427,7 +27427,7 @@
         "Shape_Area": 1679623774.7999997,
         "DEM_VOTES": 0,
         "GOP_VOTES": 0,
-        "MARGIN": NaN,
+        "MARGIN": 0.0,
         "TOTAL_VOTES": 0
       },
       "geometry": {
@@ -28287,7 +28287,7 @@
         "Shape_Area": 1660523140.8199997,
         "DEM_VOTES": 0,
         "GOP_VOTES": 0,
-        "MARGIN": NaN,
+        "MARGIN": 0.0,
         "TOTAL_VOTES": 0
       },
       "geometry": {
@@ -30315,7 +30315,7 @@
         "Shape_Area": 1120763054.9,
         "DEM_VOTES": 0,
         "GOP_VOTES": 0,
-        "MARGIN": NaN,
+        "MARGIN": 0.0,
         "TOTAL_VOTES": 0
       },
       "geometry": {
@@ -30775,7 +30775,7 @@
         "Shape_Area": 1118857528.74,
         "DEM_VOTES": 0,
         "GOP_VOTES": 0,
-        "MARGIN": NaN,
+        "MARGIN": 0.0,
         "TOTAL_VOTES": 0
       },
       "geometry": {
@@ -31371,7 +31371,7 @@
         "Shape_Area": 1137830599.86,
         "DEM_VOTES": 0,
         "GOP_VOTES": 0,
-        "MARGIN": NaN,
+        "MARGIN": 0.0,
         "TOTAL_VOTES": 0
       },
       "geometry": {
@@ -32019,7 +32019,7 @@
         "Shape_Area": 1694592948.14,
         "DEM_VOTES": 0,
         "GOP_VOTES": 0,
-        "MARGIN": NaN,
+        "MARGIN": 0.0,
         "TOTAL_VOTES": 0
       },
       "geometry": {
@@ -33063,7 +33063,7 @@
         "Shape_Area": 1138197262.46,
         "DEM_VOTES": 0,
         "GOP_VOTES": 0,
-        "MARGIN": NaN,
+        "MARGIN": 0.0,
         "TOTAL_VOTES": 0
       },
       "geometry": {
@@ -33547,7 +33547,7 @@
         "Shape_Area": 1251104325.65,
         "DEM_VOTES": 0,
         "GOP_VOTES": 0,
-        "MARGIN": NaN,
+        "MARGIN": 0.0,
         "TOTAL_VOTES": 0
       },
       "geometry": {
@@ -34687,7 +34687,7 @@
         "Shape_Area": 1872267194.17,
         "DEM_VOTES": 0,
         "GOP_VOTES": 0,
-        "MARGIN": NaN,
+        "MARGIN": 0.0,
         "TOTAL_VOTES": 0
       },
       "geometry": {
@@ -35667,7 +35667,7 @@
         "Shape_Area": 1862636443.8,
         "DEM_VOTES": 0,
         "GOP_VOTES": 0,
-        "MARGIN": NaN,
+        "MARGIN": 0.0,
         "TOTAL_VOTES": 0
       },
       "geometry": {
@@ -36547,7 +36547,7 @@
         "Shape_Area": 1888317690.63,
         "DEM_VOTES": 0,
         "GOP_VOTES": 0,
-        "MARGIN": NaN,
+        "MARGIN": 0.0,
         "TOTAL_VOTES": 0
       },
       "geometry": {
@@ -37415,7 +37415,7 @@
         "Shape_Area": 1472819841.49,
         "DEM_VOTES": 0,
         "GOP_VOTES": 0,
-        "MARGIN": NaN,
+        "MARGIN": 0.0,
         "TOTAL_VOTES": 0
       },
       "geometry": {
@@ -38999,7 +38999,7 @@
         "Shape_Area": 1868154589.99,
         "DEM_VOTES": 0,
         "GOP_VOTES": 0,
-        "MARGIN": NaN,
+        "MARGIN": 0.0,
         "TOTAL_VOTES": 0
       },
       "geometry": {
@@ -39723,7 +39723,7 @@
         "Shape_Area": 2231678595.77,
         "DEM_VOTES": 0,
         "GOP_VOTES": 0,
-        "MARGIN": NaN,
+        "MARGIN": 0.0,
         "TOTAL_VOTES": 0
       },
       "geometry": {
@@ -40855,7 +40855,7 @@
         "Shape_Area": 1869485810.04,
         "DEM_VOTES": 0,
         "GOP_VOTES": 0,
-        "MARGIN": NaN,
+        "MARGIN": 0.0,
         "TOTAL_VOTES": 0
       },
       "geometry": {
@@ -41539,7 +41539,7 @@
         "Shape_Area": 1841360188.35,
         "DEM_VOTES": 0,
         "GOP_VOTES": 0,
-        "MARGIN": NaN,
+        "MARGIN": 0.0,
         "TOTAL_VOTES": 0
       },
       "geometry": {

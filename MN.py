@@ -38,6 +38,7 @@ def func():
 
     file_name='MN_Precincts.geojson'
     df = df.fillna(0)
+    Counties =  Counties.fillna(0)
     #Counties = Counties.dropna()
 
     #with open(file_name, 'r', encoding='utf-8') as f:
