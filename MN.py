@@ -67,7 +67,7 @@ def func():
 
         i = 0;
 
-    with open('Precinct_Output.geojson', 'w') as f:
+    with open('Precincts_Output.geojson', 'w') as f:
         json.dump(data, f, indent=2)
         print("The Precinct json file is created")
 
