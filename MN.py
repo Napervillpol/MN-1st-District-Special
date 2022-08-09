@@ -21,7 +21,7 @@ def func():
     df =df.drop(index =[0])
     df.columns = name
     df =df.reset_index()
-    
+
 
     df.insert(0, "ID",df['County Code'].astype(str).str.zfill(2)+ df['Precinct Code'].astype(str))
     df.insert(0, 'Total', df['McClellan - GLC'] + df['Reisdorf - LMN'] + df['Finstad - R'] + df['Ettinger - DFL'] + df['Write In'])
