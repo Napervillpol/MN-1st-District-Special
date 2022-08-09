@@ -119,7 +119,7 @@ def func():
         print("The County json file is created")
 
     with open('Poutput.json', 'w') as f:
-        json.dump(df.to_json(orient="columns"), f, indent=2)
+        json.dump(df.to_json(orient="columns"), f, indent=0)
         print("data Json Created")
 schedule.every(1).minutes.do(func)
 
