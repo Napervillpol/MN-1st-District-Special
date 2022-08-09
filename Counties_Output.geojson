@@ -3685,10 +3685,10 @@
         "CTY_FIPS": 79,
         "Shape_Leng": 170211.004115,
         "Shape_Area": 1226286586.17,
-        "DEM_VOTES": 130,
-        "GOP_VOTES": 260,
-        "MARGIN": -0.3333333333333333,
-        "TOTAL_VOTES": 390
+        "DEM_VOTES": 0,
+        "GOP_VOTES": 0,
+        "MARGIN": NaN,
+        "TOTAL_VOTES": 0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -6501,10 +6501,10 @@
         "CTY_FIPS": 131,
         "Shape_Leng": 154431.787729,
         "Shape_Area": 1335114621.05,
-        "DEM_VOTES": 80,
-        "GOP_VOTES": 160,
-        "MARGIN": -0.3333333333333333,
-        "TOTAL_VOTES": 240
+        "DEM_VOTES": 0,
+        "GOP_VOTES": 0,
+        "MARGIN": NaN,
+        "TOTAL_VOTES": 0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -7401,10 +7401,10 @@
         "CTY_FIPS": 15,
         "Shape_Leng": 225386.416718,
         "Shape_Area": 1600966055.55,
-        "DEM_VOTES": 165,
-        "GOP_VOTES": 330,
-        "MARGIN": -0.3333333333333333,
-        "TOTAL_VOTES": 495
+        "DEM_VOTES": 0,
+        "GOP_VOTES": 0,
+        "MARGIN": NaN,
+        "TOTAL_VOTES": 0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -12497,10 +12497,10 @@
         "CTY_FIPS": 103,
         "Shape_Leng": 245174.754916,
         "Shape_Area": 1208137728.88,
-        "DEM_VOTES": 130,
-        "GOP_VOTES": 260,
-        "MARGIN": -0.3333333333333333,
-        "TOTAL_VOTES": 390
+        "DEM_VOTES": 0,
+        "GOP_VOTES": 0,
+        "MARGIN": NaN,
+        "TOTAL_VOTES": 0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -22317,10 +22317,10 @@
         "CTY_FIPS": 13,
         "Shape_Leng": 222729.126993,
         "Shape_Area": 1981870614.15,
-        "DEM_VOTES": 325,
-        "GOP_VOTES": 560,
-        "MARGIN": -0.2655367231638418,
-        "TOTAL_VOTES": 885
+        "DEM_VOTES": 0,
+        "GOP_VOTES": 0,
+        "MARGIN": NaN,
+        "TOTAL_VOTES": 0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -27425,10 +27425,10 @@
         "CTY_FIPS": 33,
         "Shape_Leng": 173855.699753,
         "Shape_Area": 1679623774.7999997,
-        "DEM_VOTES": 50,
-        "GOP_VOTES": 100,
-        "MARGIN": -0.3333333333333333,
-        "TOTAL_VOTES": 150
+        "DEM_VOTES": 0,
+        "GOP_VOTES": 0,
+        "MARGIN": NaN,
+        "TOTAL_VOTES": 0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -28285,10 +28285,10 @@
         "CTY_FIPS": 169,
         "Shape_Leng": 184798.793597,
         "Shape_Area": 1660523140.8199997,
-        "DEM_VOTES": 245,
-        "GOP_VOTES": 490,
-        "MARGIN": -0.3333333333333333,
-        "TOTAL_VOTES": 735
+        "DEM_VOTES": 0,
+        "GOP_VOTES": 0,
+        "MARGIN": NaN,
+        "TOTAL_VOTES": 0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -30313,10 +30313,10 @@
         "CTY_FIPS": 161,
         "Shape_Leng": 135224.751282,
         "Shape_Area": 1120763054.9,
-        "DEM_VOTES": 115,
-        "GOP_VOTES": 230,
-        "MARGIN": -0.3333333333333333,
-        "TOTAL_VOTES": 345
+        "DEM_VOTES": 0,
+        "GOP_VOTES": 0,
+        "MARGIN": NaN,
+        "TOTAL_VOTES": 0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -30773,10 +30773,10 @@
         "CTY_FIPS": 147,
         "Shape_Leng": 135219.200529,
         "Shape_Area": 1118857528.74,
-        "DEM_VOTES": 130,
-        "GOP_VOTES": 260,
-        "MARGIN": -0.3333333333333333,
-        "TOTAL_VOTES": 390
+        "DEM_VOTES": 0,
+        "GOP_VOTES": 0,
+        "MARGIN": NaN,
+        "TOTAL_VOTES": 0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -31369,10 +31369,10 @@
         "CTY_FIPS": 39,
         "Shape_Leng": 136083.429709,
         "Shape_Area": 1137830599.86,
-        "DEM_VOTES": 110,
-        "GOP_VOTES": 220,
-        "MARGIN": -0.3333333333333333,
-        "TOTAL_VOTES": 330
+        "DEM_VOTES": 0,
+        "GOP_VOTES": 0,
+        "MARGIN": NaN,
+        "TOTAL_VOTES": 0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -32017,10 +32017,10 @@
         "CTY_FIPS": 109,
         "Shape_Leng": 178042.583882,
         "Shape_Area": 1694592948.14,
-        "DEM_VOTES": 596,
-        "GOP_VOTES": 1100,
-        "MARGIN": -0.2971698113207547,
-        "TOTAL_VOTES": 1696
+        "DEM_VOTES": 0,
+        "GOP_VOTES": 0,
+        "MARGIN": NaN,
+        "TOTAL_VOTES": 0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -33061,10 +33061,10 @@
         "CTY_FIPS": 165,
         "Shape_Leng": 136541.12803,
         "Shape_Area": 1138197262.46,
-        "DEM_VOTES": 105,
-        "GOP_VOTES": 210,
-        "MARGIN": -0.3333333333333333,
-        "TOTAL_VOTES": 315
+        "DEM_VOTES": 0,
+        "GOP_VOTES": 0,
+        "MARGIN": NaN,
+        "TOTAL_VOTES": 0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -33545,10 +33545,10 @@
         "CTY_FIPS": 133,
         "Shape_Leng": 142205.587722,
         "Shape_Area": 1251104325.65,
-        "DEM_VOTES": 120,
-        "GOP_VOTES": 240,
-        "MARGIN": -0.3333333333333333,
-        "TOTAL_VOTES": 360
+        "DEM_VOTES": 0,
+        "GOP_VOTES": 0,
+        "MARGIN": NaN,
+        "TOTAL_VOTES": 0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -34685,10 +34685,10 @@
         "CTY_FIPS": 105,
         "Shape_Leng": 174046.417533,
         "Shape_Area": 1872267194.17,
-        "DEM_VOTES": 200,
-        "GOP_VOTES": 400,
-        "MARGIN": -0.3333333333333333,
-        "TOTAL_VOTES": 600
+        "DEM_VOTES": 0,
+        "GOP_VOTES": 0,
+        "MARGIN": NaN,
+        "TOTAL_VOTES": 0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -35665,10 +35665,10 @@
         "CTY_FIPS": 63,
         "Shape_Leng": 173794.638261,
         "Shape_Area": 1862636443.8,
-        "DEM_VOTES": 140,
-        "GOP_VOTES": 280,
-        "MARGIN": -0.3333333333333333,
-        "TOTAL_VOTES": 420
+        "DEM_VOTES": 0,
+        "GOP_VOTES": 0,
+        "MARGIN": NaN,
+        "TOTAL_VOTES": 0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -36545,10 +36545,10 @@
         "CTY_FIPS": 91,
         "Shape_Leng": 175050.279846,
         "Shape_Area": 1888317690.63,
-        "DEM_VOTES": 185,
-        "GOP_VOTES": 370,
-        "MARGIN": -0.3333333333333333,
-        "TOTAL_VOTES": 555
+        "DEM_VOTES": 0,
+        "GOP_VOTES": 0,
+        "MARGIN": NaN,
+        "TOTAL_VOTES": 0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -37413,10 +37413,10 @@
         "CTY_FIPS": 55,
         "Shape_Leng": 158071.238191,
         "Shape_Area": 1472819841.49,
-        "DEM_VOTES": 135,
-        "GOP_VOTES": 270,
-        "MARGIN": -0.3333333333333333,
-        "TOTAL_VOTES": 405
+        "DEM_VOTES": 0,
+        "GOP_VOTES": 0,
+        "MARGIN": NaN,
+        "TOTAL_VOTES": 0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -38997,10 +38997,10 @@
         "CTY_FIPS": 43,
         "Shape_Leng": 173928.682029,
         "Shape_Area": 1868154589.99,
-        "DEM_VOTES": 165,
-        "GOP_VOTES": 330,
-        "MARGIN": -0.3333333333333333,
-        "TOTAL_VOTES": 495
+        "DEM_VOTES": 0,
+        "GOP_VOTES": 0,
+        "MARGIN": NaN,
+        "TOTAL_VOTES": 0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -39721,10 +39721,10 @@
         "CTY_FIPS": 45,
         "Shape_Leng": 192944.223636,
         "Shape_Area": 2231678595.77,
-        "DEM_VOTES": 185,
-        "GOP_VOTES": 370,
-        "MARGIN": -0.3333333333333333,
-        "TOTAL_VOTES": 555
+        "DEM_VOTES": 0,
+        "GOP_VOTES": 0,
+        "MARGIN": NaN,
+        "TOTAL_VOTES": 0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -40853,10 +40853,10 @@
         "CTY_FIPS": 47,
         "Shape_Leng": 173962.635416,
         "Shape_Area": 1869485810.04,
-        "DEM_VOTES": 215,
-        "GOP_VOTES": 430,
-        "MARGIN": -0.3333333333333333,
-        "TOTAL_VOTES": 645
+        "DEM_VOTES": 0,
+        "GOP_VOTES": 0,
+        "MARGIN": NaN,
+        "TOTAL_VOTES": 0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -41537,10 +41537,10 @@
         "CTY_FIPS": 99,
         "Shape_Leng": 174252.279929,
         "Shape_Area": 1841360188.35,
-        "DEM_VOTES": 195,
-        "GOP_VOTES": 390,
-        "MARGIN": -0.3333333333333333,
-        "TOTAL_VOTES": 585
+        "DEM_VOTES": 0,
+        "GOP_VOTES": 0,
+        "MARGIN": NaN,
+        "TOTAL_VOTES": 0
       },
       "geometry": {
         "type": "MultiPolygon",
