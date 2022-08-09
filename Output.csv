@@ -1,750 +1,728 @@
-COUNTYID,Margin,ID,Candidate Name_x,Votes_x,Percentage of votes_x,Total Votes_x,Candidate Name_y,Votes_y,Percentage of votes_y,Total Votes_y
-7,0.0,070005,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-7,0.0,070010,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-7,0.0,070015,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-7,0.0,070020,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-7,0.0,070025,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-7,0.0,070030,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-7,0.0,070035,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-7,0.0,070040,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-7,0.0,070045,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-7,0.0,070050,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-7,0.0,070055,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-7,0.0,070060,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-7,0.0,070062,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-7,0.0,070065,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-7,0.0,070070,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-7,0.0,070075,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-7,0.0,070080,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-7,0.0,070085,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-7,0.0,070090,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-7,0.0,070095,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-7,0.0,070100,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-7,0.0,070105,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-7,0.0,070106,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-7,0.0,070110,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-7,0.0,070115,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-7,0.0,070120,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-7,0.0,070125,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-7,0.0,070130,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-7,0.0,070135,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-7,0.0,070140,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-7,0.0,070145,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-7,0.0,070150,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-7,0.0,070155,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-7,0.0,070160,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-7,0.0,070165,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-7,0.0,070170,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-7,0.0,070175,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-7,0.0,070180,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-7,0.0,070185,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-7,0.0,070190,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-7,0.0,070195,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-7,0.0,070200,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-7,0.0,070205,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-7,0.0,070210,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-7,0.0,070212,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-7,0.0,070213,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-7,0.0,070215,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-7,0.0,070220,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-7,0.0,070225,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-7,0.0,070230,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-7,0.0,070235,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-7,0.0,070240,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-7,0.0,070245,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-7,0.0,070250,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-7,0.0,070255,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-7,0.0,070260,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-8,0.0,080005,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-8,0.0,080030,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-8,0.0,080035,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-8,0.0,080040,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-8,0.0,080045,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-8,0.0,080050,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-8,0.0,080055,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-8,0.0,080065,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-8,0.0,080070,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-8,0.0,080080,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-8,0.0,080085,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-8,0.0,080090,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-8,0.0,080095,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-8,0.0,080100,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-8,0.0,080105,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-8,0.0,080110,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-8,0.0,080115,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-8,0.0,080125,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-8,0.0,080130,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-8,0.0,080135,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-8,0.0,080140,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-8,0.0,080155,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-20,0.0,200005,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-20,0.0,200007,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-20,0.0,200010,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-20,0.0,200015,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-20,0.0,200020,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-20,0.0,200025,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-20,0.0,200030,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-20,0.0,200032,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-20,0.0,200035,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-20,0.0,200040,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-20,0.0,200045,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-20,0.0,200050,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-20,0.0,200051,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-20,0.0,200052,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-20,0.0,200055,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-20,0.0,200060,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-20,0.0,200065,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-20,0.0,200070,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-20,0.0,200075,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-20,0.0,200080,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-20,0.0,200085,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-20,0.0,200090,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-22,0.0,220005,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-22,0.0,220010,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-22,0.0,220015,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-22,0.0,220020,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-22,0.0,220025,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-22,0.0,220030,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-22,0.0,220035,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-22,0.0,220040,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-22,0.0,220045,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-22,0.0,220050,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-22,0.0,220055,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-22,0.0,220060,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-22,0.0,220065,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-22,0.0,220070,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-22,0.0,220075,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-22,0.0,220080,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-22,0.0,220085,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-22,0.0,220090,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-22,0.0,220095,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-22,0.0,220100,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-22,0.0,220105,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-22,0.0,220110,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-22,0.0,220115,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-22,0.0,220120,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-22,0.0,220125,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-22,0.0,220130,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-22,0.0,220135,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-22,0.0,220140,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-22,0.0,220145,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-22,0.0,220150,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-22,0.0,220155,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-22,0.0,220160,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-22,0.0,220165,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-23,0.0,230005,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-23,0.0,230010,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-23,0.0,230015,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-23,0.0,230020,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-23,0.0,230025,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-23,0.0,230030,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-23,0.0,230035,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-23,0.0,230040,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-23,0.0,230045,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-23,0.0,230050,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-23,0.0,230055,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-23,0.0,230060,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-23,0.0,230065,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-23,0.0,230070,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-23,0.0,230075,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-23,0.0,230080,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-23,0.0,230085,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-23,0.0,230090,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-23,0.0,230095,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-23,0.0,230100,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-23,0.0,230105,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-23,0.0,230110,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-23,0.0,230115,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-23,0.0,230120,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-23,0.0,230125,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-23,0.0,230130,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-23,0.0,230135,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-23,0.0,230140,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-23,0.0,230150,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-23,0.0,230155,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-23,0.0,230160,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-23,0.0,230165,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-23,0.0,230175,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-23,0.0,230180,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-23,0.0,230185,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-23,0.0,230190,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-23,0.0,230195,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-24,0.0,240005,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-24,0.0,240015,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-24,0.0,240025,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-24,0.0,240035,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-24,0.0,240045,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-24,0.0,240050,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-24,0.0,240060,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-24,0.0,240061,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-24,0.0,240062,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-24,0.0,240063,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-24,0.0,240065,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-24,0.0,240070,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-24,0.0,240075,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-24,0.0,240077,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-24,0.0,240080,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-24,0.0,240085,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-24,0.0,240090,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-24,0.0,240095,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-24,0.0,240100,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-24,0.0,240105,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-24,0.0,240110,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-24,0.0,240115,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-24,0.0,240120,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-24,0.0,240125,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-24,0.0,240130,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-24,0.0,240135,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-24,0.0,240140,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-24,0.0,240145,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-24,0.0,240150,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-24,0.0,240155,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-24,0.0,240160,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-24,0.0,240165,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-24,0.0,240170,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-24,0.0,240175,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-24,0.0,240180,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-24,0.0,240185,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-24,0.0,240190,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-24,0.0,240195,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-24,0.0,240200,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-24,0.0,240205,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-24,0.0,240210,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-24,0.0,240215,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-24,0.0,240220,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-25,0.0,250005,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-25,0.0,250010,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-25,0.0,250015,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-25,0.0,250020,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-25,0.0,250025,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-25,0.0,250030,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-25,0.0,250035,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-25,0.0,250040,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-25,0.0,250045,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-25,0.0,250050,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-25,0.0,250055,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-25,0.0,250060,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-25,0.0,250065,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-25,0.0,250070,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-25,0.0,250075,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-25,0.0,250080,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-25,0.0,250085,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-25,0.0,250090,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-25,0.0,250095,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-25,0.0,250100,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-25,0.0,250105,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-25,0.0,250110,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-25,0.0,250115,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-25,0.0,250125,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-25,0.0,250130,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-25,0.0,250140,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-25,0.0,250145,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-25,0.0,250155,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-25,0.0,250160,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-25,0.0,250170,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-25,0.0,250175,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-25,0.0,250180,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-25,0.0,250185,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-25,0.0,250190,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-25,0.0,250195,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-25,0.0,250200,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-25,0.0,250205,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-25,0.0,250210,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-25,0.0,250215,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-25,0.0,250220,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-28,0.0,280005,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-28,0.0,280010,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-28,0.0,280015,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-28,0.0,280020,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-28,0.0,280025,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-28,0.0,280030,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-28,0.0,280035,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-28,0.0,280040,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-28,0.0,280045,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-28,0.0,280050,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-28,0.0,280055,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-28,0.0,280060,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-28,0.0,280065,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-28,0.0,280070,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-28,0.0,280075,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-28,0.0,280076,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-28,0.0,280080,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-28,0.0,280085,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-28,0.0,280090,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-28,0.0,280095,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-28,0.0,280100,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-28,0.0,280105,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-28,0.0,280110,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-28,0.0,280115,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-28,0.0,280120,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-28,0.0,280125,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-28,0.0,280130,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-32,0.0,320005,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-32,0.0,320010,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-32,0.0,320015,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-32,0.0,320020,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-32,0.0,320025,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-32,0.0,320030,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-32,0.0,320035,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-32,0.0,320040,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-32,0.0,320045,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-32,0.0,320050,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-32,0.0,320055,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-32,0.0,320060,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-32,0.0,320070,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-32,0.0,320080,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-32,0.0,320085,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-32,0.0,320090,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-32,0.0,320095,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-32,0.0,320100,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-32,0.0,320105,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-32,0.0,320110,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-32,0.0,320115,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-32,0.0,320120,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-32,0.0,320125,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-32,0.0,320130,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-32,0.0,320135,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-32,0.0,320140,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-32,0.0,320145,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-32,0.0,320150,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-46,0.0,460005,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-46,0.0,460010,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-46,0.0,460015,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-46,0.0,460020,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-46,0.0,460025,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-46,0.0,460030,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-46,0.0,460035,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-46,0.0,460040,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-46,0.0,460050,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-46,0.0,460055,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-46,0.0,460065,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-46,0.0,460070,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-46,0.0,460080,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-46,0.0,460085,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-46,0.0,460095,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-46,0.0,460100,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-46,0.0,460105,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-46,0.0,460110,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-46,0.0,460115,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-46,0.0,460120,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-46,0.0,460125,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-46,0.0,460130,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-46,0.0,460135,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-46,0.0,460140,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-46,0.0,460145,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-46,0.0,460150,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-46,0.0,460155,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-46,0.0,460160,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-46,0.0,460165,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-46,0.0,460170,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-46,0.0,460175,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-46,0.0,460180,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-46,0.0,460185,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-46,0.0,460195,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-46,0.0,460200,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-46,0.0,460205,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-46,0.0,460210,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-50,0.0,500005,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-50,0.0,500010,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-50,0.0,500015,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-50,0.0,500020,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-50,0.0,500030,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-50,0.0,500035,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-50,0.0,500050,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-50,0.0,500055,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-50,0.0,500070,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-50,0.0,500075,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-50,0.0,500080,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-50,0.0,500085,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-50,0.0,500090,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-50,0.0,500095,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-50,0.0,500100,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-50,0.0,500105,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-50,0.0,500110,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-50,0.0,500115,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-50,0.0,500120,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-50,0.0,500125,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-50,0.0,500130,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-50,0.0,500135,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-50,0.0,500140,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-50,0.0,500145,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-50,0.0,500150,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-50,0.0,500155,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-50,0.0,500160,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-50,0.0,500165,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-50,0.0,500170,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-50,0.0,500175,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-50,0.0,500180,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-50,0.0,500185,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-50,0.0,500190,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-50,0.0,500195,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-50,0.0,500200,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-50,0.0,500205,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-50,0.0,500210,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-50,0.0,500215,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-50,0.0,500220,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-52,0.0,520005,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-52,0.0,520010,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-52,0.0,520015,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-52,0.0,520020,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-52,0.0,520025,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-52,0.0,520030,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-52,0.0,520035,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-52,0.0,520040,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-52,0.0,520045,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-52,0.0,520050,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-52,0.0,520055,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-52,0.0,520060,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-52,0.0,520065,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-52,0.0,520070,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-52,0.0,520075,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-52,0.0,520080,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-52,0.0,520085,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-52,0.0,520090,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-52,0.0,520095,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-52,0.0,520100,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-52,0.0,520110,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-52,0.0,520115,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-52,0.0,520120,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-52,0.0,520130,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-52,0.0,520140,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-52,0.0,520145,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-53,0.0,530005,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-53,0.0,530010,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-53,0.0,530015,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-53,0.0,530020,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-53,0.0,530025,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-53,0.0,530030,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-53,0.0,530035,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-53,0.0,530040,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-53,0.0,530045,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-53,0.0,530050,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-53,0.0,530055,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-53,0.0,530060,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-53,0.0,530065,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-53,0.0,530070,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-53,0.0,530075,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-53,0.0,530080,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-53,0.0,530085,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-53,0.0,530090,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-53,0.0,530095,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-53,0.0,530100,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-53,0.0,530105,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-53,0.0,530110,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-53,0.0,530115,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-53,0.0,530120,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-53,0.0,530125,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-53,0.0,530130,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-53,0.0,530135,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-53,0.0,530140,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-53,0.0,530145,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-53,0.0,530150,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-53,0.0,530155,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-53,0.0,530160,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-53,0.0,530165,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-53,0.0,530166,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-53,0.0,530170,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-53,0.0,530175,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-53,0.0,530180,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-53,0.0,530185,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-53,0.0,530186,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-53,0.0,530190,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-55,0.0,550005,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-55,0.0,550010,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-55,0.0,550011,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-55,0.0,550012,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-55,0.0,550015,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-55,0.0,550020,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-55,0.0,550025,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-55,0.0,550030,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-55,0.0,550035,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-55,0.0,550040,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-55,0.0,550045,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-55,0.0,550050,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-55,0.0,550055,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-55,0.0,550060,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-55,0.0,550065,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-55,0.0,550066,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-55,0.0,550070,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-55,0.0,550075,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-55,0.0,550080,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-55,0.0,550085,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-55,0.0,550088,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-55,0.0,550090,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-55,0.0,550095,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-55,0.0,550100,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-55,0.0,550105,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-55,0.0,550110,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-55,0.0,550115,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-55,0.0,550120,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-55,0.0,550125,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-55,0.0,550130,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-55,0.0,550135,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-55,0.0,550140,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-55,0.0,550145,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-55,0.0,550150,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-55,0.0,550155,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-55,0.0,550160,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-55,0.0,550165,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-55,0.0,550170,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-55,0.0,550175,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-55,0.0,550180,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-55,0.0,550185,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-55,0.0,550190,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-55,0.0,550195,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-55,0.0,550200,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-55,0.0,550205,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-55,0.0,550210,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-55,0.0,550215,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-55,0.0,550220,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-55,0.0,550225,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-55,0.0,550230,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-55,0.0,550235,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-55,0.0,550240,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-55,0.0,550245,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-55,0.0,550250,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-55,0.0,550255,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-55,0.0,550260,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-55,0.0,550265,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-55,0.0,550270,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-55,0.0,550275,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-55,0.0,550280,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-55,0.0,550285,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-55,0.0,550290,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-55,0.0,550295,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-55,0.0,550300,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-55,0.0,550305,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-55,0.0,550310,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-55,0.0,550315,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-55,0.0,550320,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-55,0.0,550325,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-55,0.0,550330,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-55,0.0,550335,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-55,0.0,550340,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-55,0.0,550345,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-55,0.0,550350,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-55,0.0,550355,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-55,0.0,550360,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-55,0.0,550365,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-55,0.0,550370,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-55,0.0,550375,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-55,0.0,550380,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-55,0.0,550385,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-55,0.0,550390,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-55,0.0,550395,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-55,0.0,550400,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-55,0.0,550405,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-55,0.0,550410,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-55,0.0,550415,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-55,0.0,550420,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-55,0.0,550425,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-55,0.0,550430,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-55,0.0,550435,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-55,0.0,550440,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-55,0.0,550445,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-55,0.0,550450,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-55,0.0,550455,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-55,0.0,550460,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-55,0.0,550465,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-55,0.0,550470,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-55,0.0,550475,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-55,0.0,550480,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-55,0.0,550485,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-55,0.0,550490,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-55,0.0,550495,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-55,0.0,550500,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-55,0.0,550505,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-55,0.0,550510,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-55,0.0,550515,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-55,0.0,550520,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-55,0.0,550525,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-55,0.0,550530,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-66,0.0,660010,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-66,0.0,660012,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-66,0.0,660025,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-66,0.0,660030,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-66,0.0,660035,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-66,0.0,660040,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-66,0.0,660075,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-66,0.0,660115,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-66,0.0,660120,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-66,0.0,660130,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-66,0.0,660135,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-66,0.0,660145,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-66,0.0,660155,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-67,0.0,670005,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-67,0.0,670010,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-67,0.0,670015,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-67,0.0,670020,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-67,0.0,670025,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-67,0.0,670030,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-67,0.0,670035,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-67,0.0,670040,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-67,0.0,670045,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-67,0.0,670050,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-67,0.0,670055,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-67,0.0,670060,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-67,0.0,670065,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-67,0.0,670070,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-67,0.0,670075,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-67,0.0,670077,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-67,0.0,670080,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-67,0.0,670085,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-67,0.0,670090,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-67,0.0,670095,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-67,0.0,670100,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-67,0.0,670105,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-67,0.0,670110,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-67,0.0,670115,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-74,0.0,740005,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-74,0.0,740010,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-74,0.0,740015,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-74,0.0,740020,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-74,0.0,740025,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-74,0.0,740030,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-74,0.0,740035,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-74,0.0,740040,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-74,0.0,740045,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-74,0.0,740050,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-74,0.0,740055,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-74,0.0,740060,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-74,0.0,740065,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-74,0.0,740070,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-74,0.0,740075,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-74,0.0,740085,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-74,0.0,740090,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-74,0.0,740100,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-74,0.0,740105,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-74,0.0,740115,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-74,0.0,740120,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-74,0.0,740130,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-74,0.0,740135,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-74,0.0,740145,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-74,0.0,740150,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-74,0.0,740155,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-79,0.0,790005,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-79,0.0,790010,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-79,0.0,790015,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-79,0.0,790020,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-79,0.0,790025,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-79,0.0,790030,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-79,0.0,790035,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-79,0.0,790040,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-79,0.0,790045,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-79,0.0,790050,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-79,0.0,790055,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-79,0.0,790060,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-79,0.0,790065,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-79,0.0,790070,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-79,0.0,790075,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-79,0.0,790080,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-79,0.0,790085,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-79,0.0,790090,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-79,0.0,790095,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-79,0.0,790100,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-79,0.0,790105,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-79,0.0,790110,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-79,0.0,790115,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-79,0.0,790120,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-79,0.0,790125,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-79,0.0,790130,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-79,0.0,790140,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-79,0.0,790145,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-79,0.0,790150,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-79,0.0,790155,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-79,0.0,790160,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-79,0.0,790165,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-79,0.0,790170,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-81,0.0,810005,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-81,0.0,810010,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-81,0.0,810015,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-81,0.0,810020,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-81,0.0,810025,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-81,0.0,810030,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-81,0.0,810035,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-81,0.0,810045,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-81,0.0,810050,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-81,0.0,810055,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-81,0.0,810060,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-81,0.0,810065,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-81,0.0,810070,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-81,0.0,810075,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-81,0.0,810080,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-81,0.0,810085,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-81,0.0,810090,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-81,0.0,810095,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-81,0.0,810100,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-81,0.0,810105,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-81,0.0,810110,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-81,0.0,810115,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-81,0.0,810120,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-83,0.0,830005,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-83,0.0,830010,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-83,0.0,830015,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-83,0.0,830020,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-83,0.0,830025,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-83,0.0,830030,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-83,0.0,830035,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-83,0.0,830040,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-83,0.0,830045,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-83,0.0,830050,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-83,0.0,830060,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-83,0.0,830065,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-83,0.0,830070,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-83,0.0,830075,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-83,0.0,830080,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-83,0.0,830085,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-83,0.0,830090,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-83,0.0,830095,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-83,0.0,830110,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-83,0.0,830125,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-83,0.0,830135,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-85,0.0,850005,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-85,0.0,850010,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-85,0.0,850015,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-85,0.0,850020,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-85,0.0,850025,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-85,0.0,850030,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-85,0.0,850035,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-85,0.0,850040,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-85,0.0,850042,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-85,0.0,850045,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-85,0.0,850050,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-85,0.0,850055,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-85,0.0,850058,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-85,0.0,850060,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-85,0.0,850065,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-85,0.0,850070,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-85,0.0,850075,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-85,0.0,850080,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-85,0.0,850085,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-85,0.0,850090,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-85,0.0,850095,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-85,0.0,850100,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-85,0.0,850105,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-85,0.0,850110,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-85,0.0,850115,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-85,0.0,850120,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-85,0.0,850125,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-85,0.0,850130,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-85,0.0,850135,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-85,0.0,850140,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-85,0.0,850145,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-85,0.0,850150,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-85,0.0,850155,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-85,0.0,850160,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-85,0.0,850165,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-85,0.0,850170,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-85,0.0,850175,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-85,0.0,850180,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-85,0.0,850185,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-85,0.0,850190,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-85,0.0,850195,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-85,0.0,850200,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-85,0.0,850205,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-85,0.0,850210,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-85,0.0,850215,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-85,0.0,850220,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-85,0.0,850225,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-85,0.0,850230,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
-85,0.0,850240,Jeff Ettinger,0,0.00,0,Brad Finstad,0,0.00,0
+Margin,Total,ID,County Name,County Code,Precinct Name,Precinct Code,2022 Congressional,2020 Congressional,Legislative,McClellan - GLC,Reisdorf - LMN,Finstad - R,Ettinger - DFL,Write In
+,,70005,Blue Earth,7,AMBOY,0005,1,1,22A,,,,,
+,,70010,Blue Earth,7,BEAUFORD TWP,0010,1,1,22A,,,,,
+,,70015,Blue Earth,7,BUTTERNUT VALLEY TWP,0015,1,1,15B,,,,,
+,,70020,Blue Earth,7,CAMBRIA TWP,0020,1,1,15B,,,,,
+,,70025,Blue Earth,7,CERESCO TWP,0025,1,1,22A,,,,,
+,,70030,Blue Earth,7,DANVILLE TWP,0030,1,1,22A,,,,,
+,,70035,Blue Earth,7,DECORIA TWP,0035,1,1,22A,,,,,
+,,70040,Blue Earth,7,EAGLE LAKE,0040,1,1,18B,,,,,
+,,70045,Blue Earth,7,GARDEN CITY TWP,0045,1,1,22A,,,,,
+,,70050,Blue Earth,7,GOOD THUNDER,0050,1,1,22A,,,,,
+,,70055,Blue Earth,7,JAMESTOWN TWP,0055,1,1,22B,,,,,
+,,70060,Blue Earth,7,JUDSON TWP P-1,0060,1,1,15B,,,,,
+,,70062,Blue Earth,7,JUDSON TWP P-2,0062,1,1,22A,,,,,
+,,70065,Blue Earth,7,LAKE CRYSTAL,0065,1,1,22A,,,,,
+,,70070,Blue Earth,7,LE RAY TWP,0070,1,1,22B,,,,,
+,,70075,Blue Earth,7,LIME TWP,0075,1,1,18A,,,,,
+,,70080,Blue Earth,7,LINCOLN TWP,0080,1,1,22A,,,,,
+,,70085,Blue Earth,7,LYRA TWP,0085,1,1,22A,,,,,
+,,70090,Blue Earth,7,MCPHERSON TWP,0090,1,1,22B,,,,,
+,,70095,Blue Earth,7,MADISON LAKE,0095,1,1,22B,,,,,
+,,70100,Blue Earth,7,MANKATO W-01 P-01,0100,1,1,18B,,,,,
+,,70105,Blue Earth,7,MANKATO W-01 P-02,0105,1,1,18B,,,,,
+,,70106,Blue Earth,7,MANKATO W-01 P-03,0106,1,1,18B,,,,,
+,,70110,Blue Earth,7,MANKATO W-02 P-04,0110,1,1,18B,,,,,
+,,70115,Blue Earth,7,MANKATO W-02 P-05,0115,1,1,18A,,,,,
+,,70120,Blue Earth,7,MANKATO W-02 P-06,0120,1,1,18B,,,,,
+,,70125,Blue Earth,7,MANKATO W-02 P-07,0125,1,1,18A,,,,,
+,,70130,Blue Earth,7,MANKATO W-05 P-08,0130,1,1,18B,,,,,
+,,70135,Blue Earth,7,MANKATO W-05 P-09,0135,1,1,18B,,,,,
+,,70140,Blue Earth,7,MANKATO W-05 P-10,0140,1,1,18B,,,,,
+,,70145,Blue Earth,7,MANKATO W-03 P-11,0145,1,1,18B,,,,,
+,,70150,Blue Earth,7,MANKATO W-03 P-12,0150,1,1,18B,,,,,
+,,70155,Blue Earth,7,MANKATO W-03 P-13,0155,1,1,18B,,,,,
+,,70160,Blue Earth,7,MANKATO W-04 P-14,0160,1,1,18B,,,,,
+,,70165,Blue Earth,7,MANKATO W-04 P-15,0165,1,1,18B,,,,,
+,,70170,Blue Earth,7,MANKATO W-04 P-16,0170,1,1,18B,,,,,
+,,70175,Blue Earth,7,MANKATO W-04 P-17,0175,1,1,18A,,,,,
+,,70180,Blue Earth,7,MANKATO TWP P-1,0180,1,1,18A,,,,,
+,,70185,Blue Earth,7,MANKATO TWP P-2,0185,1,1,18B,,,,,
+,,70190,Blue Earth,7,MANKATO TWP P-3,0190,1,1,18B,,,,,
+,,70195,Blue Earth,7,MANKATO TWP P-4,0195,1,1,22B,,,,,
+,,70200,Blue Earth,7,MAPLETON,0200,1,1,22A,,,,,
+,,70205,Blue Earth,7,MAPLETON TWP,0205,1,1,22A,,,,,
+,,70210,Blue Earth,7,MEDO TWP,0210,1,1,22A,,,,,
+,,70212,Blue Earth,7,MINNESOTA LAKE,0212,1,1,22A,,,,,
+,,70213,Blue Earth,7,NORTH MANKATO,0213,1,1,18A,,,,,
+,,70215,Blue Earth,7,PEMBERTON,0215,1,1,22A,,,,,
+,,70220,Blue Earth,7,PLEASANT MOUND TWP,0220,1,1,22A,,,,,
+,,70225,Blue Earth,7,RAPIDAN TWP,0225,1,1,22A,,,,,
+,,70230,Blue Earth,7,SAINT CLAIR,0230,1,1,22B,,,,,
+,,70235,Blue Earth,7,SHELBY TWP,0235,1,1,22A,,,,,
+,,70240,Blue Earth,7,SKYLINE,0240,1,1,18B,,,,,
+,,70245,Blue Earth,7,SOUTH BEND TWP,0245,1,1,22A,,,,,
+,,70250,Blue Earth,7,STERLING TWP,0250,1,1,22A,,,,,
+,,70255,Blue Earth,7,VERNON CENTER,0255,1,1,22A,,,,,
+,,70260,Blue Earth,7,VERNON CENTER TWP,0260,1,1,22A,,,,,
+,,80005,Brown,8,ALBIN TWP,0005,1,1,15B,,,,,
+,,80010,Brown,8,BASHAW TWP,0010,7,1,15B,,,,,
+,,80015,Brown,8,BURNSTOWN TWP,0015,7,1,15B,,,,,
+,,80020,Brown,8,COBDEN,0020,7,1,15B,,,,,
+,,80025,Brown,8,COMFREY,0025,7,1,15B,,,,,
+,,80030,Brown,8,COTTONWOOD TWP,0030,1,1,15B,,,,,
+,,80035,Brown,8,EDEN TWP,0035,1,1,15B,,,,,
+,,80040,Brown,8,EVAN,0040,1,1,15B,,,,,
+,,80045,Brown,8,HANSKA,0045,1,1,15B,,,,,
+,,80050,Brown,8,HOME TWP,0050,1,1,15B,,,,,
+,,80055,Brown,8,LAKE HANSKA TWP,0055,1,1,15B,,,,,
+,,80060,Brown,8,LEAVENWORTH TWP,0060,7,1,15B,,,,,
+,,80065,Brown,8,LINDEN TWP,0065,1,1,15B,,,,,
+,,80070,Brown,8,MILFORD TWP,0070,1,1,15B,,,,,
+,,80075,Brown,8,MULLIGAN TWP,0075,7,1,15B,,,,,
+,,80080,Brown,8,NEW ULM W-1 P-1,0080,1,1,15B,,,,,
+,,80085,Brown,8,NEW ULM W-1 P-2,0085,1,1,15B,,,,,
+,,80090,Brown,8,NEW ULM W-2 P-1,0090,1,1,15B,,,,,
+,,80095,Brown,8,NEW ULM W-2 P-2,0095,1,1,15B,,,,,
+,,80100,Brown,8,NEW ULM W-3 P-1,0100,1,1,15B,,,,,
+,,80105,Brown,8,NEW ULM W-3 P-2,0105,1,1,15B,,,,,
+,,80110,Brown,8,NEW ULM W-4 P-1,0110,1,1,15B,,,,,
+,,80115,Brown,8,NEW ULM W-4 P-2,0115,1,1,15B,,,,,
+,,80120,Brown,8,NORTH STAR TWP,0120,7,1,15B,,,,,
+,,80125,Brown,8,PRAIRIEVILLE TWP P-1,0125,1,1,15B,,,,,
+,,80127,Brown,8,PRAIRIEVILLE TWP P-7,0127,7,1,15B,,,,,
+,,80130,Brown,8,SIGEL TWP,0130,1,1,15B,,,,,
+,,80135,Brown,8,SLEEPY EYE W-1,0135,1,1,15B,,,,,
+,,80140,Brown,8,SLEEPY EYE W-2,0140,1,1,15B,,,,,
+,,80145,Brown,8,SPRINGFIELD W-1,0145,7,1,15B,,,,,
+,,80150,Brown,8,SPRINGFIELD W-2,0150,7,1,15B,,,,,
+,,80155,Brown,8,STARK TWP,0155,1,1,15B,,,,,
+,,80160,Brown,8,STATELY TWP,0160,7,1,15B,,,,,
+,,170020,Cottonwood,17,BINGHAM LAKE,0020,7,1,21B,,,,,
+,,170025,Cottonwood,17,CARSON TWP,0025,7,1,21A,,,,,
+,,170030,Cottonwood,17,COMFREY,0030,7,1,21A,,,,,
+,,170040,Cottonwood,17,DELTON TWP,0040,7,1,21A,,,,,
+,,170045,Cottonwood,17,GERMANTOWN TWP P-1,0045,7,1,21A,,,,,
+,,170065,Cottonwood,17,LAKESIDE TWP,0065,7,1,21B,,,,,
+,,170070,Cottonwood,17,MIDWAY TWP,0070,7,1,21A,,,,,
+,,170075,Cottonwood,17,MOUNTAIN LAKE P-1,0075,7,1,21A,,,,,
+,,170085,Cottonwood,17,MOUNTAIN LAKE TWP,0085,7,1,21B,,,,,
+,,170095,Cottonwood,17,SELMA TWP,0095,7,1,21A,,,,,
+,,200005,Dodge,20,ASHLAND TWP.,0005,1,1,24A,,,,,
+,,200007,Dodge,20,BYRON P-2,0007,1,1,24A,,,,,
+,,200010,Dodge,20,CANISTEO TWP.,0010,1,1,24A,,,,,
+,,200015,Dodge,20,CLAREMONT,0015,1,1,24A,,,,,
+,,200020,Dodge,20,CLAREMONT TWP.,0020,1,1,24A,,,,,
+,,200025,Dodge,20,CONCORD TWP.,0025,1,1,24A,,,,,
+,,200030,Dodge,20,DODGE CENTER P-1,0030,1,1,24A,,,,,
+,,200032,Dodge,20,DODGE CENTER P-2,0032,1,1,24A,,,,,
+,,200035,Dodge,20,ELLINGTON TWP.,0035,1,1,24A,,,,,
+,,200040,Dodge,20,HAYFIELD,0040,1,1,24A,,,,,
+,,200045,Dodge,20,HAYFIELD TWP.,0045,1,1,24A,,,,,
+,,200050,Dodge,20,KASSON P-1,0050,1,1,24A,,,,,
+,,200051,Dodge,20,KASSON P-2,0051,1,1,24A,,,,,
+,,200052,Dodge,20,KASSON P-3,0052,1,1,24A,,,,,
+,,200055,Dodge,20,MANTORVILLE,0055,1,1,24A,,,,,
+,,200060,Dodge,20,MANTORVILLE TWP.,0060,1,1,24A,,,,,
+,,200065,Dodge,20,MILTON TWP.,0065,1,1,24A,,,,,
+,,200070,Dodge,20,RIPLEY TWP.,0070,1,1,24A,,,,,
+,,200075,Dodge,20,VERNON TWP.,0075,1,1,24A,,,,,
+,,200080,Dodge,20,WASIOJA TWP.,0080,1,1,24A,,,,,
+,,200085,Dodge,20,WEST CONCORD,0085,1,1,24A,,,,,
+,,200090,Dodge,20,WESTFIELD TWP.,0090,1,1,24A,,,,,
+,,220005,Faribault,22,BARBER TWP.,0005,1,1,23A,,,,,
+,,220010,Faribault,22,BLUE EARTH W-1,0010,1,1,22A,,,,,
+,,220015,Faribault,22,BLUE EARTH W-2,0015,1,1,22A,,,,,
+,,220020,Faribault,22,BLUE EARTH W-3,0020,1,1,22A,,,,,
+,,220025,Faribault,22,BLUE EARTH TWP.,0025,1,1,22A,,,,,
+,,220030,Faribault,22,BRICELYN,0030,1,1,23A,,,,,
+,,220035,Faribault,22,BRUSH CREEK TWP.,0035,1,1,23A,,,,,
+,,220040,Faribault,22,CLARK TWP.,0040,1,1,23A,,,,,
+,,220045,Faribault,22,DELAVAN,0045,1,1,22A,,,,,
+,,220050,Faribault,22,DELAVAN TWP.,0050,1,1,22A,,,,,
+,,220055,Faribault,22,DUNBAR TWP.,0055,1,1,23A,,,,,
+,,220060,Faribault,22,EASTON,0060,1,1,23A,,,,,
+,,220065,Faribault,22,ELMORE,0065,1,1,23A,,,,,
+,,220070,Faribault,22,ELMORE TWP.,0070,1,1,23A,,,,,
+,,220075,Faribault,22,EMERALD TWP.,0075,1,1,23A,,,,,
+,,220080,Faribault,22,FOSTER TWP.,0080,1,1,23A,,,,,
+,,220085,Faribault,22,FROST,0085,1,1,23A,,,,,
+,,220090,Faribault,22,JO DAVIESS TWP.,0090,1,1,22A,,,,,
+,,220095,Faribault,22,KIESTER,0095,1,1,23A,,,,,
+,,220100,Faribault,22,KIESTER TWP.,0100,1,1,23A,,,,,
+,,220105,Faribault,22,LURA TWP.,0105,1,1,23A,,,,,
+,,220110,Faribault,22,MINNESOTA LAKE,0110,1,1,23A,,,,,
+,,220115,Faribault,22,MINNESOTA LAKE TWP.,0115,1,1,23A,,,,,
+,,220120,Faribault,22,PILOT GROVE TWP.,0120,1,1,22A,,,,,
+,,220125,Faribault,22,PRESCOTT TWP.,0125,1,1,22A,,,,,
+,,220130,Faribault,22,ROME TWP.,0130,1,1,23A,,,,,
+,,220135,Faribault,22,SEELY TWP.,0135,1,1,23A,,,,,
+,,220140,Faribault,22,VERONA TWP.,0140,1,1,22A,,,,,
+,,220145,Faribault,22,WALNUT LAKE TWP.,0145,1,1,23A,,,,,
+,,220150,Faribault,22,WALTERS,0150,1,1,23A,,,,,
+,,220155,Faribault,22,WELLS,0155,1,1,23A,,,,,
+,,220160,Faribault,22,WINNEBAGO,0160,1,1,22A,,,,,
+,,220165,Faribault,22,WINNEBAGO TWP.,0165,1,1,22A,,,,,
+,,230005,Fillmore,23,AMHERST TWP.,0005,1,1,26B,,,,,
+,,230010,Fillmore,23,ARENDAHL TWP.,0010,1,1,26B,,,,,
+,,230015,Fillmore,23,BEAVER TWP.,0015,1,1,26B,,,,,
+,,230020,Fillmore,23,BLOOMFIELD TWP.,0020,1,1,26B,,,,,
+,,230025,Fillmore,23,BRISTOL TWP.,0025,1,1,26B,,,,,
+,,230030,Fillmore,23,CANTON,0030,1,1,26B,,,,,
+,,230035,Fillmore,23,CANTON TWP.,0035,1,1,26B,,,,,
+,,230040,Fillmore,23,CARIMONA TWP.,0040,1,1,26B,,,,,
+,,230045,Fillmore,23,CARROLTON TWP.,0045,1,1,26B,,,,,
+,,230050,Fillmore,23,CHATFIELD,0050,1,1,26B,,,,,
+,,230055,Fillmore,23,CHATFIELD TWP.,0055,1,1,26B,,,,,
+,,230060,Fillmore,23,FILLMORE TWP.,0060,1,1,26B,,,,,
+,,230065,Fillmore,23,FORESTVILLE TWP.,0065,1,1,26B,,,,,
+,,230070,Fillmore,23,FOUNTAIN,0070,1,1,26B,,,,,
+,,230075,Fillmore,23,FOUNTAIN TWP.,0075,1,1,26B,,,,,
+,,230080,Fillmore,23,HARMONY,0080,1,1,26B,,,,,
+,,230085,Fillmore,23,HARMONY TWP.,0085,1,1,26B,,,,,
+,,230090,Fillmore,23,HOLT TWP.,0090,1,1,26B,,,,,
+,,230095,Fillmore,23,JORDAN TWP.,0095,1,1,26B,,,,,
+,,230100,Fillmore,23,LANESBORO,0100,1,1,26B,,,,,
+,,230105,Fillmore,23,MABEL,0105,1,1,26B,,,,,
+,,230110,Fillmore,23,NEWBURG TWP.,0110,1,1,26B,,,,,
+,,230115,Fillmore,23,NORWAY TWP.,0115,1,1,26B,,,,,
+,,230120,Fillmore,23,OSTRANDER,0120,1,1,26B,,,,,
+,,230125,Fillmore,23,PETERSON,0125,1,1,26B,,,,,
+,,230130,Fillmore,23,PILOT MOUND TWP.,0130,1,1,26B,,,,,
+,,230135,Fillmore,23,PREBLE TWP.,0135,1,1,26B,,,,,
+,,230140,Fillmore,23,PRESTON,0140,1,1,26B,,,,,
+,,230150,Fillmore,23,PRESTON TWP.,0150,1,1,26B,,,,,
+,,230155,Fillmore,23,RUSHFORD,0155,1,1,26B,,,,,
+,,230160,Fillmore,23,RUSHFORD VILLAGE,0160,1,1,26B,,,,,
+,,230165,Fillmore,23,SPRING VALLEY,0165,1,1,26B,,,,,
+,,230175,Fillmore,23,SPRING VALLEY TWP.,0175,1,1,26B,,,,,
+,,230180,Fillmore,23,SUMNER TWP.,0180,1,1,26B,,,,,
+,,230185,Fillmore,23,WHALAN,0185,1,1,26B,,,,,
+,,230190,Fillmore,23,WYKOFF,0190,1,1,26B,,,,,
+,,230195,Fillmore,23,YORK TWP.,0195,1,1,26B,,,,,
+,,240005,Freeborn,24,ALBERT LEA W-1 P-1,0005,1,1,23A,,,,,
+,,240015,Freeborn,24,ALBERT LEA W-2 P-1,0015,1,1,23A,,,,,
+,,240025,Freeborn,24,ALBERT LEA W-3 P-1,0025,1,1,23A,,,,,
+,,240035,Freeborn,24,ALBERT LEA W-4 P-1,0035,1,1,23A,,,,,
+,,240045,Freeborn,24,ALBERT LEA W-5 P-1,0045,1,1,23A,,,,,
+,,240050,Freeborn,24,ALBERT LEA W-6 P-1,0050,1,1,23A,,,,,
+,,240060,Freeborn,24,ALBERT LEA TWP. P-1,0060,1,1,23A,,,,,
+,,240061,Freeborn,24,ALBERT LEA TWP. P-2,0061,1,1,23A,,,,,
+,,240062,Freeborn,24,ALBERT LEA TWP. P-3,0062,1,1,23A,,,,,
+,,240063,Freeborn,24,ALBERT LEA TWP. P-4,0063,1,1,23A,,,,,
+,,240065,Freeborn,24,ALDEN,0065,1,1,23A,,,,,
+,,240070,Freeborn,24,ALDEN TWP.,0070,1,1,23A,,,,,
+,,240075,Freeborn,24,BANCROFT TWP. P-1,0075,1,1,23A,,,,,
+,,240077,Freeborn,24,BANCROFT TWP. P-2,0077,1,1,23A,,,,,
+,,240080,Freeborn,24,BATH TWP.,0080,1,1,23A,,,,,
+,,240085,Freeborn,24,CARLSTON TWP.,0085,1,1,23A,,,,,
+,,240090,Freeborn,24,CLARKS GROVE,0090,1,1,23A,,,,,
+,,240095,Freeborn,24,CONGER,0095,1,1,23A,,,,,
+,,240100,Freeborn,24,EMMONS,0100,1,1,23A,,,,,
+,,240105,Freeborn,24,FREEBORN,0105,1,1,23A,,,,,
+,,240110,Freeborn,24,FREEBORN TWP.,0110,1,1,23A,,,,,
+,,240115,Freeborn,24,FREEMAN TWP.,0115,1,1,23A,,,,,
+,,240120,Freeborn,24,GENEVA,0120,1,1,23A,,,,,
+,,240125,Freeborn,24,GENEVA TWP.,0125,1,1,23A,,,,,
+,,240130,Freeborn,24,GLENVILLE,0130,1,1,23A,,,,,
+,,240135,Freeborn,24,HARTLAND,0135,1,1,23A,,,,,
+,,240140,Freeborn,24,HARTLAND TWP.,0140,1,1,23A,,,,,
+,,240145,Freeborn,24,HAYWARD,0145,1,1,23B,,,,,
+,,240150,Freeborn,24,HAYWARD TWP.,0150,1,1,23B,,,,,
+,,240155,Freeborn,24,HOLLANDALE,0155,1,1,23A,,,,,
+,,240160,Freeborn,24,LONDON TWP.,0160,1,1,23B,,,,,
+,,240165,Freeborn,24,MANCHESTER,0165,1,1,23A,,,,,
+,,240170,Freeborn,24,MANCHESTER TWP.,0170,1,1,23A,,,,,
+,,240175,Freeborn,24,MANSFIELD TWP.,0175,1,1,23A,,,,,
+,,240180,Freeborn,24,MOSCOW TWP.,0180,1,1,23B,,,,,
+,,240185,Freeborn,24,MYRTLE,0185,1,1,23B,,,,,
+,,240190,Freeborn,24,NEWRY TWP.,0190,1,1,23B,,,,,
+,,240195,Freeborn,24,NUNDA TWP.,0195,1,1,23A,,,,,
+,,240200,Freeborn,24,OAKLAND TWP.,0200,1,1,23B,,,,,
+,,240205,Freeborn,24,PICKEREL LAKE TWP.,0205,1,1,23A,,,,,
+,,240210,Freeborn,24,RICELAND TWP.,0210,1,1,23A,,,,,
+,,240215,Freeborn,24,SHELL ROCK TWP.,0215,1,1,23B,,,,,
+,,240220,Freeborn,24,TWIN LAKES,0220,1,1,23A,,,,,
+,,280005,Houston,28,BLACK HAMMER TWP.,0005,1,1,26B,,,,,
+,,280010,Houston,28,BROWNSVILLE,0010,1,1,26B,,,,,
+,,280015,Houston,28,BROWNSVILLE TWP.,0015,1,1,26B,,,,,
+,,280020,Houston,28,CALEDONIA P-1,0020,1,1,26B,,,,,
+,,280025,Houston,28,CALEDONIA P-2,0025,1,1,26B,,,,,
+,,280030,Houston,28,CALEDONIA TWP.,0030,1,1,26B,,,,,
+,,280035,Houston,28,CROOKED CREEK TWP.,0035,1,1,26B,,,,,
+,,280040,Houston,28,EITZEN,0040,1,1,26B,,,,,
+,,280045,Houston,28,HOKAH,0045,1,1,26B,,,,,
+,,280050,Houston,28,HOKAH TWP.,0050,1,1,26B,,,,,
+,,280055,Houston,28,HOUSTON,0055,1,1,26B,,,,,
+,,280060,Houston,28,HOUSTON TWP.,0060,1,1,26B,,,,,
+,,280065,Houston,28,JEFFERSON TWP.,0065,1,1,26B,,,,,
+,,280070,Houston,28,LA CRESCENT P-1,0070,1,1,26B,,,,,
+,,280075,Houston,28,LA CRESCENT P-2,0075,1,1,26B,,,,,
+,,280076,Houston,28,LA CRESCENT P-3,0076,1,1,26B,,,,,
+,,280080,Houston,28,LA CRESCENT TWP.,0080,1,1,26B,,,,,
+,,280085,Houston,28,MAYVILLE TWP.,0085,1,1,26B,,,,,
+,,280090,Houston,28,MONEY CREEK TWP.,0090,1,1,26B,,,,,
+,,280095,Houston,28,MOUND PRAIRIE TWP.,0095,1,1,26B,,,,,
+,,280100,Houston,28,SHELDON TWP.,0100,1,1,26B,,,,,
+,,280105,Houston,28,SPRING GROVE,0105,1,1,26B,,,,,
+,,280110,Houston,28,SPRING GROVE TWP.,0110,1,1,26B,,,,,
+,,280115,Houston,28,UNION TWP.,0115,1,1,26B,,,,,
+,,280120,Houston,28,WILMINGTON TWP.,0120,1,1,26B,,,,,
+,,280125,Houston,28,WINNEBAGO TWP.,0125,1,1,26B,,,,,
+,,280130,Houston,28,YUCATAN TWP.,0130,1,1,26B,,,,,
+,,320005,Jackson,32,ALBA TWP.,0005,1,1,21B,,,,,
+,,320010,Jackson,32,ALPHA,0010,1,1,21B,,,,,
+,,320015,Jackson,32,BELMONT TWP.,0015,1,1,21B,,,,,
+,,320020,Jackson,32,CHRISTIANIA TWP.,0020,1,1,21B,,,,,
+,,320025,Jackson,32,DELAFIELD TWP.,0025,1,1,21B,,,,,
+,,320030,Jackson,32,DES MOINES TWP.,0030,1,1,21B,,,,,
+,,320035,Jackson,32,ENTERPRISE TWP.,0035,1,1,21B,,,,,
+,,320040,Jackson,32,EWINGTON TWP.,0040,1,1,21B,,,,,
+,,320045,Jackson,32,HERON LAKE,0045,1,1,21B,,,,,
+,,320050,Jackson,32,HERON LAKE TWP.,0050,1,1,21B,,,,,
+,,320055,Jackson,32,HUNTER TWP.,0055,1,1,21B,,,,,
+,,320060,Jackson,32,JACKSON W-1,0060,1,1,21B,,,,,
+,,320070,Jackson,32,JACKSON W-2,0070,1,1,21B,,,,,
+,,320080,Jackson,32,KIMBALL TWP.,0080,1,1,21B,,,,,
+,,320085,Jackson,32,LA CROSSE TWP.,0085,1,1,21B,,,,,
+,,320090,Jackson,32,LAKEFIELD P-1,0090,1,1,21B,,,,,
+,,320095,Jackson,32,LAKEFIELD P-2,0095,1,1,21B,,,,,
+,,320100,Jackson,32,MIDDLETOWN TWP.,0100,1,1,21B,,,,,
+,,320105,Jackson,32,MINNEOTA TWP.,0105,1,1,21B,,,,,
+,,320110,Jackson,32,OKABENA,0110,1,1,21B,,,,,
+,,320115,Jackson,32,PETERSBURG TWP.,0115,1,1,21B,,,,,
+,,320120,Jackson,32,ROST TWP.,0120,1,1,21B,,,,,
+,,320125,Jackson,32,ROUND LAKE TWP.,0125,1,1,21B,,,,,
+,,320130,Jackson,32,SIOUX VALLEY TWP.,0130,1,1,21B,,,,,
+,,320135,Jackson,32,WEIMER TWP.,0135,1,1,21B,,,,,
+,,320140,Jackson,32,WEST HERON LAKE TWP.,0140,1,1,21B,,,,,
+,,320145,Jackson,32,WILDER,0145,1,1,21B,,,,,
+,,320150,Jackson,32,WISCONSIN TWP.,0150,1,1,21B,,,,,
+,,400005,Le Sueur,40,CLEVELAND,0005,2,1,22B,,,,,
+,,400010,Le Sueur,40,CLEVELAND TWP.,0010,2,1,22B,,,,,
+,,400015,Le Sueur,40,CORDOVA TWP.,0015,2,1,22B,,,,,
+,,400020,Le Sueur,40,DERRYNANE TWP.,0020,2,1,22B,,,,,
+,,400025,Le Sueur,40,ELYSIAN,0025,2,1,22B,,,,,
+,,400030,Le Sueur,40,ELYSIAN TWP.,0030,2,1,22B,,,,,
+,,400035,Le Sueur,40,HEIDELBERG,0035,2,1,22B,,,,,
+,,400040,Le Sueur,40,KASOTA,0040,2,1,18A,,,,,
+,,400045,Le Sueur,40,KASOTA TWP. P-1,0045,2,1,18A,,,,,
+,,400047,Le Sueur,40,KASOTA TWP. P-2,0047,2,1,22B,,,,,
+,,400050,Le Sueur,40,KILKENNY,0050,2,1,22B,,,,,
+,,400055,Le Sueur,40,KILKENNY TWP.,0055,2,1,22B,,,,,
+,,400062,Le Sueur,40,LANESBURGH TWP.,0062,2,1,22B,,,,,
+,,400065,Le Sueur,40,LE CENTER,0065,2,1,22B,,,,,
+,,400075,Le Sueur,40,LE SUEUR,0075,2,1,22B,,,,,
+,,400085,Le Sueur,40,LEXINGTON TWP.,0085,2,1,22B,,,,,
+,,400087,Le Sueur,40,MANKATO W-2 P-101,0087,2,1,18A,,,,,
+,,400090,Le Sueur,40,MONTGOMERY,0090,2,1,22B,,,,,
+,,400100,Le Sueur,40,MONTGOMERY TWP.,0100,2,1,22B,,,,,
+,,400105,Le Sueur,40,NEW PRAGUE,0105,2,1,22B,,,,,
+,,400110,Le Sueur,40,OTTAWA TWP.,0110,2,1,22B,,,,,
+,,400115,Le Sueur,40,SHARON TWP.,0115,2,1,22B,,,,,
+,,400120,Le Sueur,40,TYRONE TWP.,0120,2,1,22B,,,,,
+,,400125,Le Sueur,40,WASHINGTON TWP.,0125,2,1,22B,,,,,
+,,400130,Le Sueur,40,WATERVILLE,0130,2,1,22B,,,,,
+,,400140,Le Sueur,40,WATERVILLE TWP.,0140,2,1,22B,,,,,
+,,460005,Martin,46,CEDAR TWP.,0005,1,1,21B,,,,,
+,,460010,Martin,46,CENTER CREEK TWP.,0010,1,1,22A,,,,,
+,,460015,Martin,46,CEYLON,0015,1,1,22A,,,,,
+,,460020,Martin,46,DUNNELL,0020,1,1,22A,,,,,
+,,460025,Martin,46,EAST CHAIN TWP.,0025,1,1,22A,,,,,
+,,460030,Martin,46,ELM CREEK TWP.,0030,1,1,21B,,,,,
+,,460035,Martin,46,FAIRMONT W-1 P-1,0035,1,1,22A,,,,,
+,,460040,Martin,46,FAIRMONT W-1 P-2,0040,1,1,22A,,,,,
+,,460050,Martin,46,FAIRMONT W-2 P-1,0050,1,1,22A,,,,,
+,,460055,Martin,46,FAIRMONT W-2 P-2,0055,1,1,22A,,,,,
+,,460065,Martin,46,FAIRMONT W-3 P-1,0065,1,1,22A,,,,,
+,,460070,Martin,46,FAIRMONT W-3 P-2,0070,1,1,22A,,,,,
+,,460080,Martin,46,FAIRMONT W-4 P-1,0080,1,1,22A,,,,,
+,,460085,Martin,46,FAIRMONT W-4 P-2,0085,1,1,22A,,,,,
+,,460095,Martin,46,FAIRMONT TWP.,0095,1,1,22A,,,,,
+,,460100,Martin,46,FOX LAKE TWP.,0100,1,1,21B,,,,,
+,,460105,Martin,46,FRASER TWP.,0105,1,1,22A,,,,,
+,,460110,Martin,46,GALENA TWP.,0110,1,1,21B,,,,,
+,,460115,Martin,46,GRANADA,0115,1,1,22A,,,,,
+,,460120,Martin,46,JAY TWP.,0120,1,1,22A,,,,,
+,,460125,Martin,46,LAKE BELT TWP.,0125,1,1,22A,,,,,
+,,460130,Martin,46,LAKE FREMONT TWP.,0130,1,1,22A,,,,,
+,,460135,Martin,46,MANYASKA TWP.,0135,1,1,22A,,,,,
+,,460140,Martin,46,NASHVILLE TWP.,0140,1,1,22A,,,,,
+,,460145,Martin,46,NORTHROP,0145,1,1,22A,,,,,
+,,460150,Martin,46,ORMSBY,0150,1,1,21B,,,,,
+,,460155,Martin,46,PLEASANT PRAIRIE TWP.,0155,1,1,22A,,,,,
+,,460160,Martin,46,ROLLING GREEN TWP.,0160,1,1,22A,,,,,
+,,460165,Martin,46,RUTLAND TWP.,0165,1,1,22A,,,,,
+,,460170,Martin,46,SHERBURN,0170,1,1,22A,,,,,
+,,460175,Martin,46,SILVER LAKE TWP.,0175,1,1,22A,,,,,
+,,460180,Martin,46,TENHASSEN TWP.,0180,1,1,22A,,,,,
+,,460185,Martin,46,TRIMONT,0185,1,1,21B,,,,,
+,,460195,Martin,46,TRUMAN,0195,1,1,22A,,,,,
+,,460200,Martin,46,WAVERLY TWP.,0200,1,1,22A,,,,,
+,,460205,Martin,46,WELCOME,0205,1,1,22A,,,,,
+,,460210,Martin,46,WESTFORD TWP.,0210,1,1,22A,,,,,
+,,500005,Mower,50,ADAMS,0005,1,1,23B,,,,,
+,,500010,Mower,50,ADAMS TWP.,0010,1,1,23B,,,,,
+,,500015,Mower,50,AUSTIN W-1 P-1,0015,1,1,23B,,,,,
+,,500020,Mower,50,AUSTIN W-1 P-2,0020,1,1,23B,,,,,
+,,500030,Mower,50,AUSTIN W-2 P-1,0030,1,1,23B,,,,,
+,,500035,Mower,50,AUSTIN W-2 P-2,0035,1,1,23B,,,,,
+,,500050,Mower,50,AUSTIN W-3 P-1,0050,1,1,23B,,,,,
+,,500055,Mower,50,AUSTIN W-3 P-2,0055,1,1,23B,,,,,
+,,500070,Mower,50,AUSTIN TWP.,0070,1,1,23B,,,,,
+,,500075,Mower,50,BENNINGTON TWP.,0075,1,1,26B,,,,,
+,,500080,Mower,50,BROWNSDALE,0080,1,1,23B,,,,,
+,,500085,Mower,50,CLAYTON TWP.,0085,1,1,23B,,,,,
+,,500090,Mower,50,DEXTER,0090,1,1,23B,,,,,
+,,500095,Mower,50,DEXTER TWP.,0095,1,1,23B,,,,,
+,,500100,Mower,50,ELKTON,0100,1,1,23B,,,,,
+,,500105,Mower,50,FRANKFORD TWP.,0105,1,1,26B,,,,,
+,,500110,Mower,50,GRAND MEADOW,0110,1,1,23B,,,,,
+,,500115,Mower,50,GRAND MEADOW TWP.,0115,1,1,23B,,,,,
+,,500120,Mower,50,LANSING TWP.,0120,1,1,23B,,,,,
+,,500125,Mower,50,LE ROY,0125,1,1,26B,,,,,
+,,500130,Mower,50,LE ROY TWP.,0130,1,1,26B,,,,,
+,,500135,Mower,50,LODI TWP.,0135,1,1,23B,,,,,
+,,500140,Mower,50,LYLE,0140,1,1,23B,,,,,
+,,500145,Mower,50,LYLE TWP.,0145,1,1,23B,,,,,
+,,500150,Mower,50,MAPLEVIEW,0150,1,1,23B,,,,,
+,,500155,Mower,50,MARSHALL TWP.,0155,1,1,23B,,,,,
+,,500160,Mower,50,NEVADA TWP.,0160,1,1,23B,,,,,
+,,500165,Mower,50,PLEASANT VALLEY,0165,1,1,23B,,,,,
+,,500170,Mower,50,RACINE,0170,1,1,26B,,,,,
+,,500175,Mower,50,RACINE TWP.,0175,1,1,26B,,,,,
+,,500180,Mower,50,RED ROCK TWP.,0180,1,1,23B,,,,,
+,,500185,Mower,50,ROSE CREEK,0185,1,1,23B,,,,,
+,,500190,Mower,50,SARGEANT,0190,1,1,23B,,,,,
+,,500195,Mower,50,SARGEANT TWP.,0195,1,1,23B,,,,,
+,,500200,Mower,50,TAOPI,0200,1,1,23B,,,,,
+,,500205,Mower,50,UDOLPHO TWP.,0205,1,1,23B,,,,,
+,,500210,Mower,50,WALTHAM,0210,1,1,23B,,,,,
+,,500215,Mower,50,WALTHAM TWP.,0215,1,1,23B,,,,,
+,,500220,Mower,50,WINDOM TWP.,0220,1,1,23B,,,,,
+,,520005,Nicollet,52,BELGRADE TOWNSHIP,0005,1,1,18A,,,,,
+,,520010,Nicollet,52,BERNADOTTE TOWNSHIP,0010,1,1,18A,,,,,
+,,520015,Nicollet,52,BRIGHTON TOWNSHIP,0015,1,1,18A,,,,,
+,,520020,Nicollet,52,CITY OF COURTLAND,0020,1,1,18A,,,,,
+,,520025,Nicollet,52,COURTLAND TOWNSHIP,0025,1,1,18A,,,,,
+,,520030,Nicollet,52,GRANBY TOWNSHIP,0030,1,1,18A,,,,,
+,,520035,Nicollet,52,CITY OF LAFAYETTE,0035,1,1,18A,,,,,
+,,520040,Nicollet,52,LAFAYETTE TOWNSHIP,0040,1,1,18A,,,,,
+,,520045,Nicollet,52,LAKE PRAIRIE TOWNSHIP,0045,1,1,18A,,,,,
+,,520050,Nicollet,52,MANKATO W-2 P-99,0050,1,1,18A,,,,,
+,,520055,Nicollet,52,NEW SWEDEN TOWNSHIP,0055,1,1,18A,,,,,
+,,520060,Nicollet,52,CITY OF NICOLLET,0060,1,1,18A,,,,,
+,,520065,Nicollet,52,NICOLLET TOWNSHIP,0065,1,1,18A,,,,,
+,,520070,Nicollet,52,NORTH MANKATO P-1,0070,1,1,18A,,,,,
+,,520075,Nicollet,52,NORTH MANKATO P-2,0075,1,1,18A,,,,,
+,,520080,Nicollet,52,NORTH MANKATO P-3,0080,1,1,18A,,,,,
+,,520085,Nicollet,52,NORTH MANKATO P-4,0085,1,1,18A,,,,,
+,,520090,Nicollet,52,NORTH MANKATO P-5,0090,1,1,18A,,,,,
+,,520095,Nicollet,52,NORTH MANKATO P-6,0095,1,1,18A,,,,,
+,,520100,Nicollet,52,NORTH MANKATO P-7,0100,1,1,18A,,,,,
+,,520110,Nicollet,52,OSHAWA TOWNSHIP,0110,1,1,18A,,,,,
+,,520115,Nicollet,52,RIDGELY TOWNSHIP,0115,1,1,18A,,,,,
+,,520120,Nicollet,52,ST PETER W-1 P-1,0120,1,1,18A,,,,,
+,,520130,Nicollet,52,ST PETER W-2 P-1,0130,1,1,18A,,,,,
+,,520140,Nicollet,52,TRAVERSE TOWNSHIP,0140,1,1,18A,,,,,
+,,520145,Nicollet,52,WEST NEWTON TOWNSHIP,0145,1,1,18A,,,,,
+,,530005,Nobles,53,ADRIAN,0005,1,1,21A,,,,,
+,,530010,Nobles,53,BIGELOW,0010,1,1,21B,,,,,
+,,530015,Nobles,53,BIGELOW TWP.,0015,1,1,21B,,,,,
+,,530020,Nobles,53,BLOOM TWP.,0020,1,1,21B,,,,,
+,,530025,Nobles,53,BREWSTER,0025,1,1,21B,,,,,
+,,530030,Nobles,53,DEWALD TWP.,0030,1,1,21B,,,,,
+,,530035,Nobles,53,DUNDEE,0035,1,1,21B,,,,,
+,,530040,Nobles,53,ELK TWP.,0040,1,1,21B,,,,,
+,,530045,Nobles,53,ELLSWORTH,0045,1,1,21A,,,,,
+,,530050,Nobles,53,GRAHAM LAKES TWP.,0050,1,1,21B,,,,,
+,,530055,Nobles,53,GRAND PRAIRIE TWP.,0055,1,1,21A,,,,,
+,,530060,Nobles,53,HERSEY TWP.,0060,1,1,21B,,,,,
+,,530065,Nobles,53,INDIAN LAKE TWP.,0065,1,1,21B,,,,,
+,,530070,Nobles,53,KINBRAE,0070,1,1,21B,,,,,
+,,530075,Nobles,53,LARKIN TWP.,0075,1,1,21A,,,,,
+,,530080,Nobles,53,LEOTA TWP.,0080,1,1,21A,,,,,
+,,530085,Nobles,53,LISMORE,0085,1,1,21A,,,,,
+,,530090,Nobles,53,LISMORE TWP.,0090,1,1,21A,,,,,
+,,530095,Nobles,53,LITTLE ROCK TWP.,0095,1,1,21A,,,,,
+,,530100,Nobles,53,LORAIN TWP.,0100,1,1,21B,,,,,
+,,530105,Nobles,53,OLNEY TWP.,0105,1,1,21A,,,,,
+,,530110,Nobles,53,RANSOM TWP.,0110,1,1,21B,,,,,
+,,530115,Nobles,53,ROUND LAKE,0115,1,1,21B,,,,,
+,,530120,Nobles,53,RUSHMORE,0120,1,1,21B,,,,,
+,,530125,Nobles,53,SEWARD TWP.,0125,1,1,21B,,,,,
+,,530130,Nobles,53,SUMMIT LAKE TWP.,0130,1,1,21B,,,,,
+,,530135,Nobles,53,WESTSIDE TWP.,0135,1,1,21A,,,,,
+,,530140,Nobles,53,WILMONT,0140,1,1,21A,,,,,
+,,530145,Nobles,53,WILMONT TWP.,0145,1,1,21A,,,,,
+,,530150,Nobles,53,WORTHINGTON W-1 P-1,0150,1,1,21B,,,,,
+,,530155,Nobles,53,WORTHINGTON W-1 P-2,0155,1,1,21B,,,,,
+,,530160,Nobles,53,WORTHINGTON W-1 P-3,0160,1,1,21B,,,,,
+,,530165,Nobles,53,WORTHINGTON W-1 P-4,0165,1,1,21B,,,,,
+,,530166,Nobles,53,WORTHINGTON W-1 P-5,0166,1,1,21B,,,,,
+,,530170,Nobles,53,WORTHINGTON W-2 P-1,0170,1,1,21B,,,,,
+,,530175,Nobles,53,WORTHINGTON W-2 P-2,0175,1,1,21B,,,,,
+,,530180,Nobles,53,WORTHINGTON W-2 P-3,0180,1,1,21B,,,,,
+,,530185,Nobles,53,WORTHINGTON W-2 P-4,0185,1,1,21B,,,,,
+,,530186,Nobles,53,WORTHINGTON W-2 P-5,0186,1,1,21B,,,,,
+,,530190,Nobles,53,WORTHINGTON TWP.,0190,1,1,21B,,,,,
+,,550005,Olmsted,55,BYRON,0005,1,1,24A,,,,,
+,,550010,Olmsted,55,CASCADE TWP. P-1,0010,1,1,25A,,,,,
+,,550011,Olmsted,55,CASCADE TWP. P-2,0011,1,1,25A,,,,,
+,,550012,Olmsted,55,CASCADE TWP. P-3,0012,1,1,24B,,,,,
+,,550015,Olmsted,55,CHATFIELD,0015,1,1,20B,,,,,
+,,550020,Olmsted,55,DOVER,0020,1,1,20B,,,,,
+,,550025,Olmsted,55,DOVER TWP.,0025,1,1,20B,,,,,
+,,550030,Olmsted,55,ELMIRA TWP.,0030,1,1,20B,,,,,
+,,550035,Olmsted,55,EYOTA,0035,1,1,20B,,,,,
+,,550040,Olmsted,55,EYOTA TWP.,0040,1,1,20B,,,,,
+,,550045,Olmsted,55,FARMINGTON TWP.,0045,1,1,20B,,,,,
+,,550050,Olmsted,55,HAVERHILL TWP,0050,1,1,25A,,,,,
+,,550055,Olmsted,55,HIGH FOREST TWP.,0055,1,1,24A,,,,,
+,,550060,Olmsted,55,KALMAR TWP.,0060,1,1,24A,,,,,
+,,550065,Olmsted,55,MARION TWP. P-1,0065,1,1,20B,,,,,
+,,550066,Olmsted,55,MARION TWP. P-2,0066,1,1,24B,,,,,
+,,550070,Olmsted,55,NEW HAVEN TWP.,0070,1,1,20B,,,,,
+,,550075,Olmsted,55,ORION TWP.,0075,1,1,20B,,,,,
+,,550080,Olmsted,55,ORONOCO,0080,1,1,25A,,,,,
+,,550085,Olmsted,55,ORONOCO TWP.,0085,1,1,25A,,,,,
+,,550088,Olmsted,55,PINE ISLAND,0088,1,1,20B,,,,,
+,,550090,Olmsted,55,PLEASANT GROVE TWP.,0090,1,1,20B,,,,,
+,,550095,Olmsted,55,QUINCY TWP.,0095,1,1,20B,,,,,
+,,550100,Olmsted,55,ROCHESTER W1 P1,0100,1,1,24B,,,,,
+,,550105,Olmsted,55,ROCHESTER W1 P2,0105,1,1,24B,,,,,
+,,550110,Olmsted,55,ROCHESTER W1 P3,0110,1,1,25B,,,,,
+,,550115,Olmsted,55,ROCHESTER W1 P4,0115,1,1,24B,,,,,
+,,550120,Olmsted,55,ROCHESTER W1 P5,0120,1,1,24B,,,,,
+,,550125,Olmsted,55,ROCHESTER W1 P6,0125,1,1,24B,,,,,
+,,550130,Olmsted,55,ROCHESTER W1 P7,0130,1,1,24B,,,,,
+,,550135,Olmsted,55,ROCHESTER W1 P8,0135,1,1,24B,,,,,
+,,550140,Olmsted,55,ROCHESTER W1 P9,0140,1,1,24B,,,,,
+,,550145,Olmsted,55,ROCHESTER W1 P10,0145,1,1,24A,,,,,
+,,550150,Olmsted,55,ROCHESTER W1 P11,0150,1,1,24B,,,,,
+,,550155,Olmsted,55,ROCHESTER W1 P12,0155,1,1,24B,,,,,
+,,550160,Olmsted,55,ROCHESTER W1 P13,0160,1,1,24A,,,,,
+,,550165,Olmsted,55,ROCHESTER W1 P14,0165,1,1,24A,,,,,
+,,550170,Olmsted,55,ROCHESTER W2 P1,0170,1,1,24B,,,,,
+,,550175,Olmsted,55,ROCHESTER W2 P2,0175,1,1,24B,,,,,
+,,550180,Olmsted,55,ROCHESTER W2 P3,0180,1,1,24B,,,,,
+,,550185,Olmsted,55,ROCHESTER W2 P4,0185,1,1,24B,,,,,
+,,550190,Olmsted,55,ROCHESTER W2 P5,0190,1,1,24B,,,,,
+,,550195,Olmsted,55,ROCHESTER W2 P6,0195,1,1,24B,,,,,
+,,550200,Olmsted,55,ROCHESTER W2 P7,0200,1,1,25B,,,,,
+,,550205,Olmsted,55,ROCHESTER W2 P8,0205,1,1,25B,,,,,
+,,550210,Olmsted,55,ROCHESTER W2 P9,0210,1,1,24B,,,,,
+,,550215,Olmsted,55,ROCHESTER W2 P10,0215,1,1,24B,,,,,
+,,550220,Olmsted,55,ROCHESTER W2 P11,0220,1,1,24B,,,,,
+,,550225,Olmsted,55,ROCHESTER W2 P12,0225,1,1,25B,,,,,
+,,550230,Olmsted,55,ROCHESTER W2 P13,0230,1,1,25B,,,,,
+,,550235,Olmsted,55,ROCHESTER W3 P1,0235,1,1,25A,,,,,
+,,550240,Olmsted,55,ROCHESTER W3 P2,0240,1,1,25A,,,,,
+,,550245,Olmsted,55,ROCHESTER W3 P3,0245,1,1,25A,,,,,
+,,550250,Olmsted,55,ROCHESTER W3 P4,0250,1,1,25A,,,,,
+,,550255,Olmsted,55,ROCHESTER W3 P5,0255,1,1,25A,,,,,
+,,550260,Olmsted,55,ROCHESTER W3 P6,0260,1,1,25A,,,,,
+,,550265,Olmsted,55,ROCHESTER W3 P7,0265,1,1,25A,,,,,
+,,550270,Olmsted,55,ROCHESTER W3 P8,0270,1,1,25A,,,,,
+,,550275,Olmsted,55,ROCHESTER W3 P9,0275,1,1,25A,,,,,
+,,550280,Olmsted,55,ROCHESTER W3 P10,0280,1,1,25A,,,,,
+,,550285,Olmsted,55,ROCHESTER W3 P11,0285,1,1,25A,,,,,
+,,550290,Olmsted,55,ROCHESTER W3 P12,0290,1,1,25A,,,,,
+,,550295,Olmsted,55,ROCHESTER W3 P13,0295,1,1,25A,,,,,
+,,550300,Olmsted,55,ROCHESTER W4 P1,0300,1,1,25B,,,,,
+,,550305,Olmsted,55,ROCHESTER W4 P2,0305,1,1,25B,,,,,
+,,550310,Olmsted,55,ROCHESTER W4 P3,0310,1,1,25B,,,,,
+,,550315,Olmsted,55,ROCHESTER W4 P4,0315,1,1,25B,,,,,
+,,550320,Olmsted,55,ROCHESTER W4 P5,0320,1,1,25B,,,,,
+,,550325,Olmsted,55,ROCHESTER W4 P6,0325,1,1,25B,,,,,
+,,550330,Olmsted,55,ROCHESTER W4 P7,0330,1,1,25B,,,,,
+,,550335,Olmsted,55,ROCHESTER W4 P8,0335,1,1,24B,,,,,
+,,550340,Olmsted,55,ROCHESTER W4 P9,0340,1,1,24B,,,,,
+,,550345,Olmsted,55,ROCHESTER W4 P10,0345,1,1,24B,,,,,
+,,550350,Olmsted,55,ROCHESTER W4 P11,0350,1,1,24B,,,,,
+,,550355,Olmsted,55,ROCHESTER W4 P12,0355,1,1,24B,,,,,
+,,550360,Olmsted,55,ROCHESTER W4 P13,0360,1,1,24B,,,,,
+,,550365,Olmsted,55,ROCHESTER W5 P1,0365,1,1,25A,,,,,
+,,550370,Olmsted,55,ROCHESTER W5 P2,0370,1,1,25A,,,,,
+,,550375,Olmsted,55,ROCHESTER W5 P3,0375,1,1,25B,,,,,
+,,550380,Olmsted,55,ROCHESTER W5 P4,0380,1,1,25B,,,,,
+,,550385,Olmsted,55,ROCHESTER W5 P5,0385,1,1,25B,,,,,
+,,550390,Olmsted,55,ROCHESTER W5 P6,0390,1,1,25A,,,,,
+,,550395,Olmsted,55,ROCHESTER W5 P7,0395,1,1,25B,,,,,
+,,550400,Olmsted,55,ROCHESTER W5 P8,0400,1,1,25B,,,,,
+,,550405,Olmsted,55,ROCHESTER W5 P9,0405,1,1,25B,,,,,
+,,550410,Olmsted,55,ROCHESTER W5 P10,0410,1,1,25B,,,,,
+,,550415,Olmsted,55,ROCHESTER W5 P11,0415,1,1,25B,,,,,
+,,550420,Olmsted,55,ROCHESTER W5 P12,0420,1,1,25B,,,,,
+,,550425,Olmsted,55,ROCHESTER W5 P13,0425,1,1,25B,,,,,
+,,550430,Olmsted,55,ROCHESTER W5 P14,0430,1,1,24B,,,,,
+,,550435,Olmsted,55,ROCHESTER W6 P1,0435,1,1,25A,,,,,
+,,550440,Olmsted,55,ROCHESTER W6 P2,0440,1,1,25A,,,,,
+,,550445,Olmsted,55,ROCHESTER W6 P3,0445,1,1,25A,,,,,
+,,550450,Olmsted,55,ROCHESTER W6 P4,0450,1,1,25A,,,,,
+,,550455,Olmsted,55,ROCHESTER W6 P5,0455,1,1,25B,,,,,
+,,550460,Olmsted,55,ROCHESTER W6 P6,0460,1,1,25A,,,,,
+,,550465,Olmsted,55,ROCHESTER W6 P7,0465,1,1,25B,,,,,
+,,550470,Olmsted,55,ROCHESTER W6 P8,0470,1,1,25B,,,,,
+,,550475,Olmsted,55,ROCHESTER W6 P9,0475,1,1,25B,,,,,
+,,550480,Olmsted,55,ROCHESTER W6 P10,0480,1,1,25A,,,,,
+,,550485,Olmsted,55,ROCHESTER W6 P11,0485,1,1,25A,,,,,
+,,550490,Olmsted,55,ROCHESTER W6 P12,0490,1,1,25B,,,,,
+,,550495,Olmsted,55,ROCHESTER W6 P13,0495,1,1,25B,,,,,
+,,550500,Olmsted,55,ROCHESTER TWP P-1,0500,1,1,24B,,,,,
+,,550505,Olmsted,55,ROCHESTER TWP P-2,0505,1,1,24A,,,,,
+,,550510,Olmsted,55,ROCHESTER TWP P-3,0510,1,1,24A,,,,,
+,,550515,Olmsted,55,ROCK DELL TWP.,0515,1,1,24A,,,,,
+,,550520,Olmsted,55,SALEM TWP.,0520,1,1,24A,,,,,
+,,550525,Olmsted,55,STEWARTVILLE,0525,1,1,24A,,,,,
+,,550530,Olmsted,55,VIOLA TWP.,0530,1,1,20B,,,,,
+,,660010,Rice,66,CANNON CITY TWP.,0010,1,1,19A,,,,,
+,,660020,Rice,66,ERIN TWP.,0020,2,1,22B,,,,,
+,,660025,Rice,66,FARIBAULT P-1,0025,1,1,19A,,,,,
+,,660030,Rice,66,FARIBAULT P-2,0030,1,1,19A,,,,,
+,,660035,Rice,66,FARIBAULT P-3,0035,1,1,19A,,,,,
+,,660040,Rice,66,FARIBAULT P-4,0040,1,1,19A,,,,,
+,,660055,Rice,66,FOREST TWP.,0055,2,1,58A,,,,,
+,,660060,Rice,66,LONSDALE CITY,0060,2,1,58A,,,,,
+,,660065,Rice,66,MORRISTOWN,0065,2,1,19A,,,,,
+,,660070,Rice,66,MORRISTOWN TWP.,0070,2,1,19A,,,,,
+,,660125,Rice,66,SHIELDSVILLE TWP.,0125,2,1,19A,,,,,
+,,660130,Rice,66,WALCOTT TWP.,0130,1,1,19A,,,,,
+,,660135,Rice,66,WARSAW TWP.,0135,1,1,19A,,,,,
+,,660140,Rice,66,WEBSTER TWP. P-1,0140,2,1,58A,,,,,
+,,660145,Rice,66,WELLS TWP.,0145,1,1,19A,,,,,
+,,660150,Rice,66,WHEATLAND TWP.,0150,2,1,58A,,,,,
+,,670005,Rock,67,BATTLE PLAIN TWP,0005,1,1,21A,,,,,
+,,670010,Rock,67,BEAVER CREEK,0010,1,1,21A,,,,,
+,,670015,Rock,67,BEAVER CREEK TWP,0015,1,1,21A,,,,,
+,,670020,Rock,67,CLINTON TWP,0020,1,1,21A,,,,,
+,,670025,Rock,67,DENVER TWP,0025,1,1,21A,,,,,
+,,670030,Rock,67,HARDWICK,0030,1,1,21A,,,,,
+,,670035,Rock,67,HILLS,0035,1,1,21A,,,,,
+,,670040,Rock,67,JASPER,0040,1,1,21A,,,,,
+,,670045,Rock,67,KANARANZI TWP,0045,1,1,21A,,,,,
+,,670050,Rock,67,KENNETH,0050,1,1,21A,,,,,
+,,670055,Rock,67,LUVERNE W-1 NE,0055,1,1,21A,,,,,
+,,670060,Rock,67,LUVERNE W-1 NW,0060,1,1,21A,,,,,
+,,670065,Rock,67,LUVERNE W-2 SE,0065,1,1,21A,,,,,
+,,670070,Rock,67,LUVERNE W-2 SW,0070,1,1,21A,,,,,
+,,670075,Rock,67,LUVERNE TWP P1,0075,1,1,21A,,,,,
+,,670077,Rock,67,LUVERNE TWP P2,0077,1,1,21A,,,,,
+,,670080,Rock,67,MAGNOLIA CITY,0080,1,1,21A,,,,,
+,,670085,Rock,67,MAGNOLIA TWP,0085,1,1,21A,,,,,
+,,670090,Rock,67,MARTIN TWP,0090,1,1,21A,,,,,
+,,670095,Rock,67,MOUND TWP,0095,1,1,21A,,,,,
+,,670100,Rock,67,ROSE DELL TWP,0100,1,1,21A,,,,,
+,,670105,Rock,67,SPRINGWATER TWP,0105,1,1,21A,,,,,
+,,670110,Rock,67,STEEN,0110,1,1,21A,,,,,
+,,670115,Rock,67,VIENNA TWP,0115,1,1,21A,,,,,
+,,740005,Steele,74,AURORA TWP,0005,1,1,23A,,,,,
+,,740010,Steele,74,BERLIN TWP,0010,1,1,23A,,,,,
+,,740015,Steele,74,BLOOMING PRAIRIE,0015,1,1,23B,,,,,
+,,740020,Steele,74,BLOOMING PRAIRIE TWP,0020,1,1,23B,,,,,
+,,740025,Steele,74,CLINTON FALLS TWP,0025,1,1,19B,,,,,
+,,740030,Steele,74,DEERFIELD TWP,0030,1,1,19B,,,,,
+,,740035,Steele,74,ELLENDALE,0035,1,1,23A,,,,,
+,,740040,Steele,74,HAVANA TWP,0040,1,1,19B,,,,,
+,,740045,Steele,74,LEMOND TWP,0045,1,1,23A,,,,,
+,,740050,Steele,74,MEDFORD,0050,1,1,19B,,,,,
+,,740055,Steele,74,MEDFORD TWP,0055,1,1,19B,,,,,
+,,740060,Steele,74,MERIDEN TWP,0060,1,1,19B,,,,,
+,,740065,Steele,74,MERTON TWP,0065,1,1,19B,,,,,
+,,740070,Steele,74,OWATONNA W-1 P-1,0070,1,1,19B,,,,,
+,,740075,Steele,74,OWATONNA W-1 P-2,0075,1,1,19B,,,,,
+,,740085,Steele,74,OWATONNA W-2 P-1,0085,1,1,19B,,,,,
+,,740090,Steele,74,OWATONNA W-2 P-2,0090,1,1,19B,,,,,
+,,740100,Steele,74,OWATONNA W-3 P-1,0100,1,1,19B,,,,,
+,,740105,Steele,74,OWATONNA W-3 P-2,0105,1,1,19B,,,,,
+,,740115,Steele,74,OWATONNA W-4 P-1,0115,1,1,19B,,,,,
+,,740120,Steele,74,OWATONNA W-4 P-2,0120,1,1,19B,,,,,
+,,740130,Steele,74,OWATONNA W-5 P-1,0130,1,1,19B,,,,,
+,,740135,Steele,74,OWATONNA W-5 P-2,0135,1,1,19B,,,,,
+,,740145,Steele,74,OWATONNA TWP,0145,1,1,19B,,,,,
+,,740150,Steele,74,SOMERSET TWP,0150,1,1,23A,,,,,
+,,740155,Steele,74,SUMMIT TWP,0155,1,1,23A,,,,,
+,,810005,Waseca,81,ALTON TWP.,0005,1,1,19A,,,,,
+,,810010,Waseca,81,BLOOMING GROVE TWP.,0010,1,1,19A,,,,,
+,,810015,Waseca,81,BYRON TWP.,0015,1,1,23A,,,,,
+,,810020,Waseca,81,ELYSIAN,0020,1,1,19A,,,,,
+,,810025,Waseca,81,FREEDOM TWP.,0025,1,1,23A,,,,,
+,,810030,Waseca,81,IOSCO TWP.,0030,1,1,19A,,,,,
+,,810035,Waseca,81,JANESVILLE CITY,0035,1,1,19A,,,,,
+,,810045,Waseca,81,JANESVILLE TWP.,0045,1,1,19A,,,,,
+,,810050,Waseca,81,NEW RICHLAND CITY,0050,1,1,23A,,,,,
+,,810055,Waseca,81,NEW RICHLAND TWP.,0055,1,1,23A,,,,,
+,,810060,Waseca,81,OTISCO TWP.,0060,1,1,23A,,,,,
+,,810065,Waseca,81,ST. MARY TWP.,0065,1,1,19B,,,,,
+,,810070,Waseca,81,VIVIAN TWP.,0070,1,1,23A,,,,,
+,,810075,Waseca,81,WALDORF,0075,1,1,23A,,,,,
+,,810080,Waseca,81,WASECA W-1 P-A,0080,1,1,19B,,,,,
+,,810085,Waseca,81,WASECA W-1 P-B,0085,1,1,19B,,,,,
+,,810090,Waseca,81,WASECA W-2 P-A,0090,1,1,19B,,,,,
+,,810095,Waseca,81,WASECA W-2 P-B,0095,1,1,19B,,,,,
+,,810100,Waseca,81,WASECA W-3 P-A,0100,1,1,19B,,,,,
+,,810105,Waseca,81,WASECA W-3 P-B,0105,1,1,19B,,,,,
+,,810110,Waseca,81,WILTON TWP.,0110,1,1,23A,,,,,
+,,810115,Waseca,81,WOODVILLE TWP. P-1,0115,1,1,19B,,,,,
+,,810120,Waseca,81,WOODVILLE TWP. P-2,0120,1,1,19B,,,,,
+,,830005,Watonwan,83,ADRIAN TWP,0005,1,1,21B,,,,,
+,,830010,Watonwan,83,ANTRIM TWP,0010,1,1,22A,,,,,
+,,830015,Watonwan,83,BUTTERFIELD,0015,1,1,21B,,,,,
+,,830020,Watonwan,83,BUTTERFIELD TWP,0020,1,1,21B,,,,,
+,,830025,Watonwan,83,DARFUR,0025,1,1,21B,,,,,
+,,830030,Watonwan,83,FIELDON TWP,0030,1,1,22A,,,,,
+,,830035,Watonwan,83,LA SALLE,0035,1,1,22A,,,,,
+,,830040,Watonwan,83,LEWISVILLE,0040,1,1,22A,,,,,
+,,830045,Watonwan,83,LONG LAKE TWP,0045,1,1,21B,,,,,
+,,830050,Watonwan,83,MADELIA,0050,1,1,22A,,,,,
+,,830060,Watonwan,83,MADELIA TWP,0060,1,1,22A,,,,,
+,,830065,Watonwan,83,NELSON TWP,0065,1,1,21B,,,,,
+,,830070,Watonwan,83,ODIN,0070,1,1,21B,,,,,
+,,830075,Watonwan,83,ODIN TWP,0075,1,1,21B,,,,,
+,,830080,Watonwan,83,ORMSBY,0080,1,1,21B,,,,,
+,,830085,Watonwan,83,RIVERDALE TWP,0085,1,1,22A,,,,,
+,,830090,Watonwan,83,ROSENDALE TWP,0090,1,1,22A,,,,,
+,,830095,Watonwan,83,ST JAMES CITY W-1,0095,1,1,21B,,,,,
+,,830110,Watonwan,83,ST JAMES CITY W-2,0110,1,1,21B,,,,,
+,,830125,Watonwan,83,ST JAMES TWP,0125,1,1,21B,,,,,
+,,830135,Watonwan,83,SOUTH BRANCH TWP,0135,1,1,22A,,,,,
+,,850005,Winona,85,ALTURA,0005,1,1,20B,,,,,
+,,850010,Winona,85,DAKOTA,0010,1,1,26A,,,,,
+,,850015,Winona,85,DRESBACH TWP.,0015,1,1,26A,,,,,
+,,850020,Winona,85,ELBA,0020,1,1,20B,,,,,
+,,850025,Winona,85,ELBA TWP,0025,1,1,20B,,,,,
+,,850030,Winona,85,FREMONT TWP,0030,1,1,26A,,,,,
+,,850035,Winona,85,GOODVIEW P-1,0035,1,1,26A,,,,,
+,,850040,Winona,85,GOODVIEW P-2A,0040,1,1,26A,,,,,
+,,850042,Winona,85,GOODVIEW P-2B,0042,1,1,26A,,,,,
+,,850045,Winona,85,HART TWP,0045,1,1,26A,,,,,
+,,850050,Winona,85,HILLSDALE TWP,0050,1,1,26A,,,,,
+,,850055,Winona,85,HOMER TWP,0055,1,1,26A,,,,,
+,,850058,Winona,85,LA CRESCENT,0058,1,1,26A,,,,,
+,,850060,Winona,85,LEWISTON,0060,1,1,26A,,,,,
+,,850065,Winona,85,MINNEISKA,0065,1,1,20B,,,,,
+,,850070,Winona,85,MINNESOTA CITY,0070,1,1,26A,,,,,
+,,850075,Winona,85,MOUNT VERNON TWP,0075,1,1,20B,,,,,
+,,850080,Winona,85,NEW HARTFORD TWP,0080,1,1,26A,,,,,
+,,850085,Winona,85,NORTON TWP,0085,1,1,20B,,,,,
+,,850090,Winona,85,PLEASANT HILL TWP,0090,1,1,26A,,,,,
+,,850095,Winona,85,RICHMOND TWP,0095,1,1,26A,,,,,
+,,850100,Winona,85,ROLLINGSTONE,0100,1,1,26A,,,,,
+,,850105,Winona,85,ROLLINGSTONE TWP,0105,1,1,26A,,,,,
+,,850110,Winona,85,ST CHARLES,0110,1,1,20B,,,,,
+,,850115,Winona,85,ST CHARLES TWP,0115,1,1,20B,,,,,
+,,850120,Winona,85,SARATOGA TWP,0120,1,1,20B,,,,,
+,,850125,Winona,85,STOCKTON,0125,1,1,26A,,,,,
+,,850130,Winona,85,UTICA,0130,1,1,20B,,,,,
+,,850135,Winona,85,UTICA TWP,0135,1,1,26A,,,,,
+,,850140,Winona,85,WARREN TWP,0140,1,1,26A,,,,,
+,,850145,Winona,85,WHITEWATER TWP,0145,1,1,20B,,,,,
+,,850150,Winona,85,WILSON TWP,0150,1,1,26A,,,,,
+,,850155,Winona,85,WINONA W-1 P-1,0155,1,1,26A,,,,,
+,,850160,Winona,85,WINONA W-1 P-2,0160,1,1,26A,,,,,
+,,850165,Winona,85,WINONA W-1 P-3,0165,1,1,26A,,,,,
+,,850170,Winona,85,WINONA W-1 P-4,0170,1,1,26A,,,,,
+,,850175,Winona,85,WINONA W-2 P-1,0175,1,1,26A,,,,,
+,,850180,Winona,85,WINONA W-2 P-2,0180,1,1,26A,,,,,
+,,850185,Winona,85,WINONA W-2 P-3,0185,1,1,26A,,,,,
+,,850190,Winona,85,WINONA W-2 P-4,0190,1,1,26A,,,,,
+,,850195,Winona,85,WINONA W-3 P-1,0195,1,1,26A,,,,,
+,,850200,Winona,85,WINONA W-3 P-2,0200,1,1,26A,,,,,
+,,850205,Winona,85,WINONA W-3 P-3,0205,1,1,26A,,,,,
+,,850210,Winona,85,WINONA W-3 P-4,0210,1,1,26A,,,,,
+,,850215,Winona,85,WINONA W-4 P-1,0215,1,1,26A,,,,,
+,,850220,Winona,85,WINONA W-4 P-2,0220,1,1,26A,,,,,
+,,850225,Winona,85,WINONA W-4 P-3,0225,1,1,26A,,,,,
+,,850230,Winona,85,WINONA W-4 P-4,0230,1,1,26A,,,,,
+,,850240,Winona,85,WISCOY TWP.,0240,1,1,26A,,,,,
+,,nannan,End of worksheet,,,,,,,,,,,

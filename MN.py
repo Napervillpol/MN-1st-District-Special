@@ -11,31 +11,34 @@ def safediv(x, y):
     except ZeroDivisionError:
         return 0
 def func():
-    colnames =['State','County ID','Precinct Name','Office ID', 'Office Name','District','Candiate Order Code','Candidate Name','suffix','Incumbent Code','Party Abbreviation','Number of Precincts Reporting','Total number of precincts voting for the office','Votes','Percentage of votes','Total Votes']
-    df = pd.read_csv('https://electionresultsfiles.sos.state.mn.us/20220809/ushousepct.txt',sep=';', names = colnames, dtype=str)
-    df.insert(0, "ID",df['County ID']+ df['Precinct Name'])
 
-    df = df.drop(columns=['State','County ID','Precinct Name','Office ID', 'Office Name','District','Candiate Order Code','suffix','Incumbent Code','Party Abbreviation','Number of Precincts Reporting','Total number of precincts voting for the office'])
+    df = pd.read_excel('https://ossmedia.sos.state.mn.us/MediaInfo/Congressional-District-1-Special-Election-Results.xlsx',sheet_name = 'PrecinctResults')
+    df.columns=df.iloc[0]
 
-    GOP = df.loc[df['Candidate Name']=='Brad Finstad']
+    df =df.drop(index =[0])
 
-    DEM = df.loc[df['Candidate Name']=='Jeff Ettinger']
-    df = DEM.merge(GOP, on='ID')
-    df.insert(0,"Margin",(df['Percentage of votes_x'].astype(float)-df['Percentage of votes_y'].astype(float))/100)
-    df.insert(0,"COUNTYID",df['ID'].astype(int)//10000)
-    df.to_csv('Output.csv',index=False)
 
-    df['Votes_x']=df['Votes_x'].astype(int)
-    df['Votes_y']=df['Votes_y'].astype(int)
-    df['Total Votes_x']=df['Total Votes_x'].astype(int)
-    Counties = df.groupby(df['COUNTYID'])[['Votes_x','Votes_y','Total Votes_x']].sum().reset_index()
-    Counties.insert(0,'MARGIN',safediv(Counties['Votes_x']-Counties['Votes_y'], Counties['Total Votes_x']))
+    df.insert(0, "ID",df['County Code'].astype(str)+ df['Precinct Code'].astype(str))
+    df.insert(0, 'Total',
+                    df['McClellan - GLC'] + df['Reisdorf - LMN'] + df['Finstad - R'] + df['Ettinger - DFL'] + df[
+                        'Write In'])
 
+    df.insert(0,"Margin",safediv(df['Ettinger - DFL']-df['Reisdorf - LMN'],df['Total']))
+
+
+
+    Counties = df.groupby(df['County Code'])[['McClellan - GLC','Reisdorf - LMN','Finstad - R','Ettinger - DFL','Write In']].sum().reset_index()
+
+    Counties.insert(0, 'Total',df['McClellan - GLC']+df['Reisdorf - LMN']+df['Finstad - R']+df['Ettinger - DFL']+df['Write In'])
+    Counties.insert(0,'Margin',safediv(Counties['Ettinger - DFL']-Counties['Finstad - R'], Counties['Total']))
+
+    df.to_csv('Output.csv', index=False)
     Counties.to_csv('Topline.csv',index=False)
 
     file_name='MN_Precincts.geojson'
-
-
+    df = df.dropna()
+    Counties = Counties.dropna()
+    print(df)
     #with open(file_name, 'r', encoding='utf-8') as f:
     #    data = json.load(f)
 
@@ -58,10 +61,10 @@ def func():
             #print(features['properties']['ID'])
 
             if features['properties']['ID'] == Precincts:
-                features['properties']['DEM_VOTES'] = int(df['Votes_x'][i])
-                features['properties']['GOP_VOTES'] = int(df['Votes_y'][i])
-                features['properties']['TOTAL_VOTES'] = int(df['Total Votes_x'][i])
-                features['properties']['MARGIN'] = (float(df['Percentage of votes_x'][i])-float(df['Percentage of votes_y'][i]))/100
+                features['properties']['DEM_VOTES'] = int(df['Ettinger - DFL'][i])
+                features['properties']['GOP_VOTES'] =int(df['Finstad - R'][i])
+                features['properties']['TOTAL_VOTES'] = int(df['Total'][i])
+                features['properties']['MARGIN'] = float(df['Margin'][i])
             i = i + 1
 
 
@@ -92,15 +95,15 @@ def func():
         features['properties']['MARGIN'] = 0
         features['properties']['TOTAL_VOTES'] = 0
 
-        for Precincts in Counties['COUNTYID']:
+        for Precincts in Counties['County Code']:
 
             # print(features['properties']['ID'])
 
             if features['properties']['COUN'] == Precincts:
-                features['properties']['DEM_VOTES'] = int(Counties['Votes_x'][i])
-                features['properties']['GOP_VOTES'] = int(Counties['Votes_y'][i])
-                features['properties']['TOTAL_VOTES'] = int(Counties['Total Votes_x'][i])
-                features['properties']['MARGIN'] = float(Counties['MARGIN'][i])
+                features['properties']['DEM_VOTES'] = int(Counties['Ettinger - DFL'][i])
+                features['properties']['GOP_VOTES'] = int(Counties['Finstad - R'][i])
+                features['properties']['TOTAL_VOTES'] = int(Counties['Total'][i])
+                features['properties']['MARGIN'] = float(Counties['Margin'][i])
 
             i = i + 1
 
@@ -112,8 +115,9 @@ def func():
         json.dump(data, f, indent=2)
         print("The County json file is created")
 
-schedule.every(1).minutes.do(func)
+#schedule.every(1).minutes.do(func)
 
-while True:
-    schedule.run_pending()
-    time.sleep(1)
+#while True:
+    #schedule.run_pending()
+    #time.sleep(1)
+func()
