@@ -20,8 +20,16 @@ GOP = df.loc[df['Candidate Name']=='Donald J. Trump and Michael R. Pence']
 DEM = df.loc[df['Candidate Name']=='Joseph R. Biden and Kamala Harris']
 df = DEM.merge(GOP, on='ID')
 df.insert(0,"Margin",(df['Percentage of votes_x'].astype(float)-df['Percentage of votes_y'].astype(float))/100)
-#df.to_csv('Output.csv',index=False)
+df.insert(0,"COUNTYID",df['ID'].astype(int)//10000)
+df.to_csv('Test.csv',index=False)
 
+df['Votes_x']=df['Votes_x'].astype(int)
+df['Votes_y']=df['Votes_y'].astype(int)
+df['Total Votes_x']=df['Total Votes_x'].astype(int)
+Counties = df.groupby(df['COUNTYID'])[['Votes_x','Votes_y','Total Votes_x']].sum()
+Counties.insert(0,'MARGIN',safediv(Counties['Votes_x']-Counties['Votes_y'], Counties['Total Votes_x']))
+
+Counties.to_csv('Topline.csv')
 
 file_name='MN_Precincts.geojson'
 
@@ -52,7 +60,7 @@ for features in data['features']:
             features['properties']['GOP_VOTES'] = int(df['Votes_y'][i])
             features['properties']['TOTAL_VOTES'] = int(df['Total Votes_x'][i])
             features['properties']['MARGIN'] = (float(df['Percentage of votes_x'][i])-float(df['Percentage of votes_y'][i]))/100
-            #print(df['Casten'][i])
+
 
         i = i + 1
 
