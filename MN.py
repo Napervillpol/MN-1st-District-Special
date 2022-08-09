@@ -101,7 +101,6 @@ def func():
             # print(features['properties']['ID'])
 
             if features['properties']['COUN'] == Precincts:
-                print(Counties)
                 features['properties']['DEM_VOTES'] = int(Counties['Ettinger - DFL'][i])
                 features['properties']['GOP_VOTES'] = int(Counties['Finstad - R'][i])
                 features['properties']['TOTAL_VOTES'] = int(Counties['Total'][i])
