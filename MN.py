@@ -37,7 +37,7 @@ def func():
     Counties.to_csv('Topline.csv',index=False)
 
     file_name='MN_Precincts.geojson'
-    df = df.dropna()
+    df = df.fillna(0)
     #Counties = Counties.dropna()
 
     #with open(file_name, 'r', encoding='utf-8') as f:
@@ -49,7 +49,7 @@ def func():
     data = json.loads(source)
     i = 0
 
-
+    print(df)
 
     for features in data['features']:
 
@@ -117,9 +117,9 @@ def func():
         json.dump(data, f, indent=2)
         print("The County json file is created")
 
-schedule.every(1).minutes.do(func)
+#schedule.every(1).minutes.do(func)
 
-while True:
-    schedule.run_pending()
-    time.sleep(1)
-#func()
+#while True:
+ #   schedule.run_pending()
+ #   time.sleep(1)
+func()
