@@ -32017,10 +32017,10 @@
         "CTY_FIPS": 109,
         "Shape_Leng": 178042.583882,
         "Shape_Area": 1694592948.14,
-        "DEM_VOTES": 0,
-        "GOP_VOTES": 0,
-        "MARGIN": 0.0,
-        "TOTAL_VOTES": 0
+        "DEM_VOTES": 19287,
+        "GOP_VOTES": 13550,
+        "MARGIN": 0.17116687054330637,
+        "TOTAL_VOTES": 33517
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -36545,10 +36545,10 @@
         "CTY_FIPS": 91,
         "Shape_Leng": 175050.279846,
         "Shape_Area": 1888317690.63,
-        "DEM_VOTES": 0,
-        "GOP_VOTES": 0,
-        "MARGIN": 0.0,
-        "TOTAL_VOTES": 0
+        "DEM_VOTES": 897,
+        "GOP_VOTES": 2143,
+        "MARGIN": -0.40051430408228866,
+        "TOTAL_VOTES": 3111
       },
       "geometry": {
         "type": "MultiPolygon",
