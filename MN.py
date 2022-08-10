@@ -119,6 +119,7 @@ def func():
         print("The County json file is created")
 
     df.to_json('poutput.json')
+    Counties.to_json('coutput')
 schedule.every(1).minutes.do(func)
 
 while True:
