@@ -36,7 +36,7 @@ def func():
 
     Counties = Counties.fillna(0)
     df = df.fillna(0)
-    print(df)
+    #print(df)
     df.to_csv('Output.csv', index=False)
     Counties.to_csv('Topline.csv',index=False)
 
