@@ -35,7 +35,7 @@ def func():
     Counties.insert(0,'Margin',safediv(Counties['Ettinger - DFL']-Counties['Finstad - R'], Counties['Total']))
 
     Counties = Counties.fillna(0)
-
+    df = df.fillna(0)
     df.to_csv('Output.csv', index=False)
     Counties.to_csv('Topline.csv',index=False)
 
