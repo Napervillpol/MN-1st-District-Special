@@ -149,17 +149,18 @@
             }).addTo(map);
             let url = 'https://raw.githubusercontent.com/Napervillpol/MN-1st-District-Special/main/Precincts_Output.geojson';
             let url2 = 'https://raw.githubusercontent.com/Napervillpol/MN-1st-District-Special/main/Counties_Output.geojson';
-            const response = fetch(url).then(response => response.json()).then(response => {
-                            
-            geojson = L.geoJson(response,
-            {
-               
-                style: style,
-                onEachFeature: onEachFeature
+            let url3 ='https://raw.githubusercontent.com/Napervillpol/MN-1st-District-Special/main/Poutput.json';
+            let url4 ='https://raw.githubusercontent.com/Napervillpol/MN-1st-District-Special/main/coutput.json';
+            
+           
                 
-            });
+           
+
             
-            
+                
+           
+            const response3 = fetch(url3).then(response3 => response3.json()).then(response3 => {
+            const response = fetch(url).then(response => response.json()).then(response => {
             let len =0 
             len =response.features.len;
            
@@ -171,18 +172,44 @@
                     DVOTE += parseInt(response.features[i].properties.DEM_VOTES)
                     RVOTE += parseInt(response.features[i].properties.GOP_VOTES)
                     TVOTE += parseInt(response.features[i].properties.TOTAL_VOTES)
+                    console.log(response3);
+                    response.features[i].properties.DEM_VOTES = response3['Ettinger - DFL'][i]
+                    response.features[i].properties.GOP_VOTES = response3['Finstad - R'][i]
+                    response.features[i].properties.TOTAL_VOTES = response3['Total'][i]
                     
                 
-                }
+                }         
+            geojson = L.geoJson(response,
+            {
+               
+                style: style,
+                onEachFeature: onEachFeature
+                
+            });
+            
+            
+            
                 
             document.getElementById("summary").innerHTML = "<b>Total</b>" + '<br />'+ 'Brad Finstad:&nbsp;'+ RVOTE + '&nbsp&nbsp('+Math.round(RVOTE/(TVOTE)*100)+'%)'+'</b><br />' + 'Jeff Ettinger: &nbsp;' + DVOTE +'&nbsp&nbsp('+Math.round(DVOTE/(TVOTE)*100)+'%)'
             
             
             map.addLayer(geojson)
-      
+        })
         })
         const response2 = fetch(url2).then(response2 => response2.json()).then(response2 => {
-                            
+            const response4 = fetch(url4).then(response4 => response4.json()).then(response4 => {                
+            for ( var i in response2.features) {
+                    
+                  
+                    response2.features[i].properties.DEM_VOTES = response4['Ettinger - DFL'][i]
+                    response2.features[i].properties.GOP_VOTES = response4['Finstad - R'][i]
+                    response2.features[i].properties.TOTAL_VOTES = response4['Total'][i]
+                    
+                
+                }         
+            
+            
+            
                             geojson2= L.geoJson(response2,
                             {
                                
@@ -192,8 +219,8 @@
                             })
                            
                                              
-                          
-                        })      
+                        })                
+        })      
 
 
              document.getElementById("BCounty").addEventListener("click", function() {
