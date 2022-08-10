@@ -20,12 +20,12 @@ def func():
     df.columns = name
     df =df.reset_index()
 
-
+    df = df.fillna(0)
     df.insert(0, "ID",df['County Code'].astype(str).str.zfill(2)+ df['Precinct Code'].astype(str))
     df.insert(0, 'Total', df['McClellan - GLC'] + df['Reisdorf - LMN'] + df['Finstad - R'] + df['Ettinger - DFL'] + df['Write In'])
 
     df.insert(0,"Margin",safediv(df['Ettinger - DFL']-df['Finstad - R'],df['Total']))
-    df = df.fillna(0)
+
 
 
 
@@ -38,7 +38,7 @@ def func():
 
     df.to_csv('Output.csv', index=False)
     Counties.to_csv('Topline.csv',index=False)
-    
+
     file_name='MN_Precincts.geojson'
 
     #Counties = Counties.dropna()
