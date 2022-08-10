@@ -174,8 +174,9 @@
                     TVOTE += parseInt(response.features[i].properties.TOTAL_VOTES)
                     console.log(response3);
                     response.features[i].properties.DEM_VOTES = response3['Ettinger - DFL'][i]
-                    response.features[i].properties.GOP_VOTES = response3['Finstad - R'][i]
+                    response.features[i].properties.GOP_VOTES =  response3['Finstad - R'][i]
                     response.features[i].properties.TOTAL_VOTES = response3['Total'][i]
+                    response.features[i].properties.MARGIN = response3['Margin'][i]
                     
                 
                 }         
@@ -204,6 +205,7 @@
                     response2.features[i].properties.DEM_VOTES = response4['Ettinger - DFL'][i]
                     response2.features[i].properties.GOP_VOTES = response4['Finstad - R'][i]
                     response2.features[i].properties.TOTAL_VOTES = response4['Total'][i]
+                    response2.features[i].properties.MARGIN =response4['Margin'][i]
                     
                 
                 }         
