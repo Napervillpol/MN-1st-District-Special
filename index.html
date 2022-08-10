@@ -173,11 +173,13 @@
                     RVOTE += parseInt(response.features[i].properties.GOP_VOTES)
                     TVOTE += parseInt(response.features[i].properties.TOTAL_VOTES)
                     console.log(response3);
-                    response.features[i].properties.DEM_VOTES = response3['Ettinger - DFL'][i]
-                    response.features[i].properties.GOP_VOTES =  response3['Finstad - R'][i]
-                    response.features[i].properties.TOTAL_VOTES = response3['Total'][i]
-                    response.features[i].properties.MARGIN = response3['Margin'][i]
-                    
+                    for ( var j in response.features) {
+                        if(response.features[i].properties.ID == response3['Ettinger - DFL'][j])
+                    response.features[i].properties.DEM_VOTES = response3['Ettinger - DFL'][j]
+                    response.features[i].properties.GOP_VOTES =  response3['Finstad - R'][j]
+                    response.features[i].properties.TOTAL_VOTES = response3['Total'][j]
+                    response.features[i].properties.MARGIN = response3['Margin'][j]
+                    }
                 
                 }         
             geojson = L.geoJson(response,
