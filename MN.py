@@ -125,7 +125,7 @@ def func():
     Counties.to_json('coutput.json')
 schedule.every(1).minutes.do(func)
 
-#while True:
-    #schedule.run_pending()
-    #time.sleep(1)
-func()
+while True:
+    schedule.run_pending()
+    time.sleep(1)
+#func()
