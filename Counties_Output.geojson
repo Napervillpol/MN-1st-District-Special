@@ -22317,10 +22317,10 @@
         "CTY_FIPS": 13,
         "Shape_Leng": 222729.126993,
         "Shape_Area": 1981870614.15,
-        "DEM_VOTES": 0,
-        "GOP_VOTES": 0,
-        "MARGIN": 0.0,
-        "TOTAL_VOTES": 0
+        "DEM_VOTES": 5501,
+        "GOP_VOTES": 4284,
+        "MARGIN": 0.1201500641721789,
+        "TOTAL_VOTES": 10129
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -30313,10 +30313,10 @@
         "CTY_FIPS": 161,
         "Shape_Leng": 135224.751282,
         "Shape_Area": 1120763054.9,
-        "DEM_VOTES": 0,
-        "GOP_VOTES": 0,
-        "MARGIN": 0.0,
-        "TOTAL_VOTES": 0
+        "DEM_VOTES": 995,
+        "GOP_VOTES": 1771,
+        "MARGIN": -0.2739145781856689,
+        "TOTAL_VOTES": 2833
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -39721,10 +39721,10 @@
         "CTY_FIPS": 45,
         "Shape_Leng": 192944.223636,
         "Shape_Area": 2231678595.77,
-        "DEM_VOTES": 0,
-        "GOP_VOTES": 0,
-        "MARGIN": 0.0,
-        "TOTAL_VOTES": 0
+        "DEM_VOTES": 1972,
+        "GOP_VOTES": 2537,
+        "MARGIN": -0.12205659969755887,
+        "TOTAL_VOTES": 4629
       },
       "geometry": {
         "type": "MultiPolygon",
