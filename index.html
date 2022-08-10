@@ -167,18 +167,23 @@
             let DVOTE=0;
             let RVOTE=0;
             let TVOTE=0;
+           
+       
                 for ( var i in response.features) {
                     
                     DVOTE += parseInt(response.features[i].properties.DEM_VOTES)
                     RVOTE += parseInt(response.features[i].properties.GOP_VOTES)
                     TVOTE += parseInt(response.features[i].properties.TOTAL_VOTES)
-                    console.log(response3);
+                   
                     for ( var j in response.features) {
-                        if(response.features[i].properties.ID == response3['Ettinger - DFL'][j])
-                    response.features[i].properties.DEM_VOTES = response3['Ettinger - DFL'][j]
-                    response.features[i].properties.GOP_VOTES =  response3['Finstad - R'][j]
-                    response.features[i].properties.TOTAL_VOTES = response3['Total'][j]
-                    response.features[i].properties.MARGIN = response3['Margin'][j]
+                        
+                        if(response.features[i].properties.ID == response3['ID'][j]){
+                        
+                            response.features[i].properties.DEM_VOTES = response3['Ettinger - DFL'][j]
+                            response.features[i].properties.GOP_VOTES =  response3['Finstad - R'][j]
+                            response.features[i].properties.TOTAL_VOTES = response3['Total'][j]
+                            response.features[i].properties.MARGIN = response3['Margin'][j]
+                        }
                     }
                 
                 }         
@@ -204,10 +209,16 @@
             for ( var i in response2.features) {
                     
                   
-                    response2.features[i].properties.DEM_VOTES = response4['Ettinger - DFL'][i]
-                    response2.features[i].properties.GOP_VOTES = response4['Finstad - R'][i]
-                    response2.features[i].properties.TOTAL_VOTES = response4['Total'][i]
-                    response2.features[i].properties.MARGIN =response4['Margin'][i]
+                for ( var j in response2.features) {
+                        
+                        if(response2.features[i].properties.COUN == response4['County Code'][j]){
+                        
+                            response2.features[i].properties.DEM_VOTES = response4['Ettinger - DFL'][j]
+                            response2.features[i].properties.GOP_VOTES =  response4['Finstad - R'][j]
+                            response2.features[i].properties.TOTAL_VOTES = response4['Total'][j]
+                            response2.features[i].properties.MARGIN = response4['Margin'][j]
+                        }
+                    }
                     
                 
                 }         
