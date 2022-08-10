@@ -6501,10 +6501,10 @@
         "CTY_FIPS": 131,
         "Shape_Leng": 154431.787729,
         "Shape_Area": 1335114621.05,
-        "DEM_VOTES": 0,
-        "GOP_VOTES": 0,
-        "MARGIN": 0.0,
-        "TOTAL_VOTES": 0
+        "DEM_VOTES": 1967,
+        "GOP_VOTES": 3150,
+        "MARGIN": -0.22199286920623007,
+        "TOTAL_VOTES": 5329
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -28285,10 +28285,10 @@
         "CTY_FIPS": 169,
         "Shape_Leng": 184798.793597,
         "Shape_Area": 1660523140.8199997,
-        "DEM_VOTES": 0,
-        "GOP_VOTES": 0,
-        "MARGIN": 0.0,
-        "TOTAL_VOTES": 0
+        "DEM_VOTES": 4005,
+        "GOP_VOTES": 3308,
+        "MARGIN": 0.09311957247828992,
+        "TOTAL_VOTES": 7485
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -30773,10 +30773,10 @@
         "CTY_FIPS": 147,
         "Shape_Leng": 135219.200529,
         "Shape_Area": 1118857528.74,
-        "DEM_VOTES": 0,
-        "GOP_VOTES": 0,
-        "MARGIN": 0.0,
-        "TOTAL_VOTES": 0
+        "DEM_VOTES": 2251,
+        "GOP_VOTES": 3104,
+        "MARGIN": -0.15611273792093705,
+        "TOTAL_VOTES": 5464
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -35665,10 +35665,10 @@
         "CTY_FIPS": 63,
         "Shape_Leng": 173794.638261,
         "Shape_Area": 1862636443.8,
-        "DEM_VOTES": 0,
-        "GOP_VOTES": 0,
-        "MARGIN": 0.0,
-        "TOTAL_VOTES": 0
+        "DEM_VOTES": 466,
+        "GOP_VOTES": 1117,
+        "MARGIN": -0.40359578425294484,
+        "TOTAL_VOTES": 1613
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -40853,10 +40853,10 @@
         "CTY_FIPS": 47,
         "Shape_Leng": 173962.635416,
         "Shape_Area": 1869485810.04,
-        "DEM_VOTES": 0,
-        "GOP_VOTES": 0,
-        "MARGIN": 0.0,
-        "TOTAL_VOTES": 0
+        "DEM_VOTES": 2615,
+        "GOP_VOTES": 3746,
+        "MARGIN": -0.17188449848024315,
+        "TOTAL_VOTES": 6580
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -41537,10 +41537,10 @@
         "CTY_FIPS": 99,
         "Shape_Leng": 174252.279929,
         "Shape_Area": 1841360188.35,
-        "DEM_VOTES": 0,
-        "GOP_VOTES": 0,
-        "MARGIN": 0.0,
-        "TOTAL_VOTES": 0
+        "DEM_VOTES": 3731,
+        "GOP_VOTES": 2837,
+        "MARGIN": 0.13335322195704058,
+        "TOTAL_VOTES": 6704
       },
       "geometry": {
         "type": "MultiPolygon",
