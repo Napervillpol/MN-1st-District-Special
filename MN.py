@@ -25,6 +25,7 @@ def func():
     df.insert(0, 'Total', df['McClellan - GLC'] + df['Reisdorf - LMN'] + df['Finstad - R'] + df['Ettinger - DFL'] + df['Write In'])
 
     df.insert(0,"Margin",safediv(df['Ettinger - DFL']-df['Finstad - R'],df['Total']))
+    df = df.fillna(0)
 
 
 
@@ -33,12 +34,13 @@ def func():
     Counties.insert(0, 'Total',Counties['McClellan - GLC']+Counties['Reisdorf - LMN']+Counties['Finstad - R']+Counties['Ettinger - DFL']+Counties['Write In'])
     Counties.insert(0,'Margin',safediv(Counties['Ettinger - DFL']-Counties['Finstad - R'], Counties['Total']))
 
+    Counties = Counties.fillna(0)
+
     df.to_csv('Output.csv', index=False)
     Counties.to_csv('Topline.csv',index=False)
-
+    
     file_name='MN_Precincts.geojson'
-    df = df.fillna(0)
-    Counties =  Counties.fillna(0)
+
     #Counties = Counties.dropna()
 
     #with open(file_name, 'r', encoding='utf-8') as f:
@@ -122,7 +124,7 @@ def func():
     Counties.to_json('coutput.json')
 schedule.every(1).minutes.do(func)
 
-while True:
-    schedule.run_pending()
-    time.sleep(1)
-#func()
+#while True:
+    #schedule.run_pending()
+    #time.sleep(1)
+func()
